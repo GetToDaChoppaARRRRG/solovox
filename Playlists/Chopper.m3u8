@@ -1,0 +1,173 @@
+#EXTM3U
+
+
+#EXTINF:-0 group-title="Radio ESP",Cadena_100
+https://raw.githubusercontent.com/GetToDaChoppaARRRRG/solovox/master/Radio/ESP/1.m3u8
+#EXTINF:-0 group-title="Radio ESP",LocaFM
+https://raw.githubusercontent.com/GetToDaChoppaARRRRG/solovox/master/Radio/ESP/2.m3u8
+#EXTINF:-0 group-title="Radio ESP",KissFMMadrid
+https://raw.githubusercontent.com/GetToDaChoppaARRRRG/solovox/master/Radio/ESP/3.m3u8
+#EXTINF:-0 group-title="Radio ESP",Latino
+https://raw.githubusercontent.com/GetToDaChoppaARRRRG/solovox/master/Radio/ESP/4.m3u8
+#EXTINF:-0 group-title="Radio ESP",RockFM
+https://raw.githubusercontent.com/GetToDaChoppaARRRRG/solovox/master/Radio/ESP/5.m3u8
+#EXTINF:-0 group-title="Radio ESP",GozaderaFM
+https://raw.githubusercontent.com/GetToDaChoppaARRRRG/solovox/master/Radio/ESP/6.m3u8
+#EXTINF:-0 group-title="Radio ESP",CanalFiesta
+https://raw.githubusercontent.com/GetToDaChoppaARRRRG/solovox/master/Radio/ESP/7.m3u8
+#EXTINF:-0 group-title="Radio ESP",ElixirFM
+https://raw.githubusercontent.com/GetToDaChoppaARRRRG/solovox/master/Radio/ESP/8.m3u8
+#EXTINF:-0 group-title="Radio ESP",HitFM
+https://raw.githubusercontent.com/GetToDaChoppaARRRRG/solovox/master/Radio/ESP/9.m3u8
+#EXTINF:-0 group-title="Radio ESP",Radio4G
+https://raw.githubusercontent.com/GetToDaChoppaARRRRG/solovox/master/Radio/ESP/10.m3u8
+#EXTINF:-0 group-title="Radio ESP",LaFresca
+https://raw.githubusercontent.com/GetToDaChoppaARRRRG/solovox/master/Radio/ESP/11.m3u8
+#EXTINF:-0 group-title="Radio ESP",80Exitos
+https://raw.githubusercontent.com/GetToDaChoppaARRRRG/solovox/master/Radio/ESP/12.m3u8
+#EXTINF:-0 group-title="Radio ESP",KokunFM
+https://raw.githubusercontent.com/GetToDaChoppaARRRRG/solovox/master/Radio/ESP/13.m3u8
+#EXTINF:-0 group-title="Radio ESP",RadioPlaneta
+https://raw.githubusercontent.com/GetToDaChoppaARRRRG/solovox/master/Radio/ESP/14.m3u8
+#EXTINF:-0 group-title="Radio ESP",ActivaFM
+https://raw.githubusercontent.com/GetToDaChoppaARRRRG/solovox/master/Radio/ESP/15.m3u8
+#EXTINF:-0 group-title="Radio ESP",ChanqueteFM
+https://raw.githubusercontent.com/GetToDaChoppaARRRRG/solovox/master/Radio/ESP/16.m3u8
+#EXTINF:-0 group-title="Radio ESP",CanalSurAndalucia
+https://raw.githubusercontent.com/GetToDaChoppaARRRRG/solovox/master/Radio/ESP/17.m3u8
+#EXTINF:-0 group-title="Radio ESP",CanalSurFlamenco
+https://raw.githubusercontent.com/GetToDaChoppaARRRRG/solovox/master/Radio/ESP/18.m3u8
+
+
+#EXTINF:-0 group-title="Radio UK",Radio1
+https://raw.githubusercontent.com/GetToDaChoppaARRRRG/solovox/master/Radio/UK/1.m3u8
+#EXTINF:-0 group-title="Radio UK",Radio2
+https://raw.githubusercontent.com/GetToDaChoppaARRRRG/solovox/master/Radio/UK/2.m3u8
+#EXTINF:-0 group-title="Radio UK",Radio1Xtra
+https://raw.githubusercontent.com/GetToDaChoppaARRRRG/solovox/master/Radio/UK/3.m3u8
+#EXTINF:-0 group-title="Radio UK",Radio3
+https://raw.githubusercontent.com/GetToDaChoppaARRRRG/solovox/master/Radio/UK/4.m3u8
+#EXTINF:-0 group-title="Radio UK",Radio4
+https://raw.githubusercontent.com/GetToDaChoppaARRRRG/solovox/master/Radio/UK/5.m3u8
+#EXTINF:-0 group-title="Radio UK",Radio4Xtra
+https://raw.githubusercontent.com/GetToDaChoppaARRRRG/solovox/master/Radio/UK/6.m3u8
+#EXTINF:-0 group-title="Radio UK",Radio5Live
+https://raw.githubusercontent.com/GetToDaChoppaARRRRG/solovox/master/Radio/UK/7.m3u8
+#EXTINF:-0 group-title="Radio UK",Radio6Music
+https://raw.githubusercontent.com/GetToDaChoppaARRRRG/solovox/master/Radio/UK/8.m3u8
+#EXTINF:-0 group-title="Radio UK",BBCAsianNetwork
+https://raw.githubusercontent.com/GetToDaChoppaARRRRG/solovox/master/Radio/UK/9.m3u8
+#EXTINF:-0 group-title="Radio UK",BBCWorldService
+https://raw.githubusercontent.com/GetToDaChoppaARRRRG/solovox/master/Radio/UK/10.m3u8
+#EXTINF:-0 group-title="Radio UK",Kiss
+https://raw.githubusercontent.com/GetToDaChoppaARRRRG/solovox/master/Radio/UK/11.m3u8
+#EXTINF:-0 group-title="Radio UK",Heart
+https://raw.githubusercontent.com/GetToDaChoppaARRRRG/solovox/master/Radio/UK/12.m3u8
+#EXTINF:-0 group-title="Radio UK",CapitalRadio
+https://raw.githubusercontent.com/GetToDaChoppaARRRRG/solovox/master/Radio/UK/13.m3u8
+#EXTINF:-0 group-title="Radio UK",JazzFM
+https://raw.githubusercontent.com/GetToDaChoppaARRRRG/solovox/master/Radio/UK/14.m3u8
+
+
+#EXTINF:-0 group-title="TVESP",La1
+https://raw.githubusercontent.com/GetToDaChoppaARRRRG/solovox/master/ESP/1.m3u8
+#EXTINF:-0 group-title="TVESP",La2
+https://raw.githubusercontent.com/GetToDaChoppaARRRRG/solovox/master/ESP/2.m3u8
+#EXTINF:-0 group-title="TVESP",Antena3
+https://raw.githubusercontent.com/GetToDaChoppaARRRRG/solovox/master/ESP/3.m3u8
+#EXTINF:-0 group-title="TVESP",Cuatro
+https://raw.githubusercontent.com/GetToDaChoppaARRRRG/solovox/master/ESP/4.m3u8
+#EXTINF:-0 group-title="TVESP",Telecinco
+https://raw.githubusercontent.com/GetToDaChoppaARRRRG/solovox/master/ESP/5.m3u8
+#EXTINF:-0 group-title="TVESP",La_Sexta
+https://raw.githubusercontent.com/GetToDaChoppaARRRRG/solovox/master/ESP/6.m3u8
+#EXTINF:-0 group-title="TVESP",Antena3series
+https://raw.githubusercontent.com/GetToDaChoppaARRRRG/solovox/master/ESP/7.m3u8
+#EXTINF:-0 group-title="TVESP",FDF
+https://raw.githubusercontent.com/GetToDaChoppaARRRRG/solovox/master/ESP/8.m3u8
+#EXTINF:-0 group-title="TVESP",Bemad
+https://raw.githubusercontent.com/GetToDaChoppaARRRRG/solovox/master/ESP/9.m3u8
+#EXTINF:-0 group-title="TVESP",Energy
+https://raw.githubusercontent.com/GetToDaChoppaARRRRG/solovox/master/ESP/10.m3u8
+#EXTINF:-0 group-title="TVESP",Divinity
+https://raw.githubusercontent.com/GetToDaChoppaARRRRG/solovox/master/ESP/11.m3u8
+#EXTINF:-0 group-title="TVESP",Boing
+https://raw.githubusercontent.com/GetToDaChoppaARRRRG/solovox/master/ESP/12.m3u8
+#EXTINF:-0 group-title="TVESP",Nova
+https://raw.githubusercontent.com/GetToDaChoppaARRRRG/solovox/master/ESP/13.m3u8
+#EXTINF:-0 group-title="TVESP",Mega
+https://raw.githubusercontent.com/GetToDaChoppaARRRRG/solovox/master/ESP/14.m3u8
+#EXTINF:-0 group-title="TVESP",A3int
+https://raw.githubusercontent.com/GetToDaChoppaARRRRG/solovox/master/ESP/15.m3u8
+#EXTINF:-0 group-title="TVESP",La24
+https://raw.githubusercontent.com/GetToDaChoppaARRRRG/solovox/master/ESP/16.m3u8
+#EXTINF:-0 group-title="TVESP",Teledeporte
+https://raw.githubusercontent.com/GetToDaChoppaARRRRG/solovox/master/ESP/17.m3u8
+#EXTINF:-0 group-title="TVESP",A3int
+https://raw.githubusercontent.com/GetToDaChoppaARRRRG/solovox/master/ESP/18.m3u8
+#EXTINF:-0 group-title="TVESP",Euronews
+https://raw.githubusercontent.com/GetToDaChoppaARRRRG/solovox/master/ESP/19.m3u8
+#EXTINF:-0 group-title="TVESP",Hispantv
+https://raw.githubusercontent.com/GetToDaChoppaARRRRG/solovox/master/ESP/20.m3u8
+#EXTINF:-0 group-title="TVESP",Hittv
+https://raw.githubusercontent.com/GetToDaChoppaARRRRG/solovox/master/ESP/21.m3u8
+#EXTINF:-0 group-title="TVESP",Mi_Musica
+https://raw.githubusercontent.com/GetToDaChoppaARRRRG/solovox/master/ESP/22.m3u8
+#EXTINF:-0 group-title="TVESP",Tico_Musica
+https://raw.githubusercontent.com/GetToDaChoppaARRRRG/solovox/master/ESP/23.m3u8
+#EXTINF:-0 group-title="TVESP",Realmadrid
+https://raw.githubusercontent.com/GetToDaChoppaARRRRG/solovox/master/ESP/24.m3u8
+#EXTINF:-0 group-title="TVESP",Rbetis
+https://raw.githubusercontent.com/GetToDaChoppaARRRRG/solovox/master/ESP/25.m3u8
+#EXTINF:-0 group-title="TVESP",Sevillafc
+https://raw.githubusercontent.com/GetToDaChoppaARRRRG/solovox/master/ESP/26.m3u8
+#EXTINF:-0 group-title="TVESP",Flamenco
+https://raw.githubusercontent.com/GetToDaChoppaARRRRG/solovox/master/ESP/27.m3u8
+#EXTINF:-0 group-title="TVESP",Aragontv
+https://raw.githubusercontent.com/GetToDaChoppaARRRRG/solovox/master/ESP/28.m3u8
+#EXTINF:-0 group-title="TVESP",Mediterraneo8
+https://raw.githubusercontent.com/GetToDaChoppaARRRRG/solovox/master/ESP/29.m3u8
+#EXTINF:-0 group-title="TVESP",RiberaVLC
+https://raw.githubusercontent.com/GetToDaChoppaARRRRG/solovox/master/ESP/30.m3u8
+#EXTINF:-0 group-title="TVESP",Telemadrid
+https://raw.githubusercontent.com/GetToDaChoppaARRRRG/solovox/master/ESP/31.m3u8
+#EXTINF:-0 group-title="TVESP",Madridlaotra
+https://raw.githubusercontent.com/GetToDaChoppaARRRRG/solovox/master/ESP/32.m3u8
+#EXTINF:-0 group-title="TVESP",Murcia
+https://raw.githubusercontent.com/GetToDaChoppaARRRRG/solovox/master/ESP/33.m3u8
+#EXTINF:-0 group-title="TVESP",Canarias
+https://raw.githubusercontent.com/GetToDaChoppaARRRRG/solovox/master/ESP/34.m3u8
+#EXTINF:-0 group-title="TVESP",Castillalamancha
+https://raw.githubusercontent.com/GetToDaChoppaARRRRG/solovox/master/ESP/35.m3u8
+#EXTINF:-0 group-title="TVESP",Canal_extremadura
+https://raw.githubusercontent.com/GetToDaChoppaARRRRG/solovox/master/ESP/36.m3u8
+#EXTINF:-0 group-title="TVESP",Cordoba
+https://raw.githubusercontent.com/GetToDaChoppaARRRRG/solovox/master/ESP/37.m3u8
+#EXTINF:-0 group-title="TVESP",13tv
+https://raw.githubusercontent.com/GetToDaChoppaARRRRG/solovox/master/ESP/38.m3u8
+#EXTINF:-0 group-title="TVESP",Ib3
+https://raw.githubusercontent.com/GetToDaChoppaARRRRG/solovox/master/ESP/39.m3u8
+#EXTINF:-0 group-title="TVESP",Rtvceuta
+https://raw.githubusercontent.com/GetToDaChoppaARRRRG/solovox/master/ESP/40.m3u8
+#EXTINF:-0 group-title="TVESP",Navarra
+https://raw.githubusercontent.com/GetToDaChoppaARRRRG/solovox/master/ESP/41.m3u8
+#EXTINF:-0 group-title="TVESP",TV3
+https://raw.githubusercontent.com/GetToDaChoppaARRRRG/solovox/master/ESP/42.m3u8
+#EXTINF:-0 group-title="TVESP",TV324
+https://raw.githubusercontent.com/GetToDaChoppaARRRRG/solovox/master/ESP/43.m3u8
+#EXTINF:-0 group-title="TVESP",C33
+https://raw.githubusercontent.com/GetToDaChoppaARRRRG/solovox/master/ESP/44.m3u8
+#EXTINF:-0 group-title="TVESP",8TV
+https://raw.githubusercontent.com/GetToDaChoppaARRRRG/solovox/master/ESP/45.m3u8
+#EXTINF:-0 group-title="TVESP",Galicia
+https://raw.githubusercontent.com/GetToDaChoppaARRRRG/solovox/master/ESP/46.m3u8
+#EXTINF:-0 group-title="TVESP",Eitb
+https://raw.githubusercontent.com/GetToDaChoppaARRRRG/solovox/master/ESP/47.m3u8
+
+
+
+
+
+
+
+
