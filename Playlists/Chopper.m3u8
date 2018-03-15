@@ -1,6 +1,4 @@
 #EXTM3U
-
-
 #EXTINF:-0 group-title="Radio ESP",Cadena_100
 https://raw.githubusercontent.com/GetToDaChoppaARRRRG/solovox/master/Radio/ESP/1.m3u8
 #EXTINF:-0 group-title="Radio ESP",LocaFM
@@ -164,10 +162,33 @@ https://raw.githubusercontent.com/GetToDaChoppaARRRRG/solovox/master/ESP/46.m3u8
 #EXTINF:-0 group-title="TVESP",Eitb
 https://raw.githubusercontent.com/GetToDaChoppaARRRRG/solovox/master/ESP/47.m3u8
 
+#EXTINF:-0 group-title="ITA",RaiPremium
+https://raw.githubusercontent.com/GetToDaChoppaARRRRG/solovox/master/Other/ITA/1.m3u8
+#EXTINF:-0 group-title="ITA",RaiMovie
+https://raw.githubusercontent.com/GetToDaChoppaARRRRG/solovox/master/Other/ITA/2.m3u8
+#EXTINF:-0 group-title="ITA",RaiStoria
+https://raw.githubusercontent.com/GetToDaChoppaARRRRG/solovox/master/Other/ITA/3.m3u8
+#EXTINF:-0 group-title="ITA",RaiScuola
+https://raw.githubusercontent.com/GetToDaChoppaARRRRG/solovox/master/Other/ITA/4.m3u8
+#EXTINF:-0 group-title="ITA",Rai5
+https://raw.githubusercontent.com/GetToDaChoppaARRRRG/solovox/master/Other/ITA/5.m3u8
+#EXTINF:-0 group-title="ITA",RaiGulp
+https://raw.githubusercontent.com/GetToDaChoppaARRRRG/solovox/master/Other/ITA/6.m3u8
+#EXTINF:-0 group-title="ITA",RaiYoYo
+https://raw.githubusercontent.com/GetToDaChoppaARRRRG/solovox/master/Other/ITA/7.m3u8
 
 
-
-
-
-
-
+#EXTINF:-0 group-title="Sport",PAC12_Networks
+https://raw.githubusercontent.com/GetToDaChoppaARRRRG/solovox/master/Other/Sport/1.m3u8
+#EXTINF:-0 group-title="Sport",PAC12_Arizona
+https://raw.githubusercontent.com/GetToDaChoppaARRRRG/solovox/master/Other/Sport/2.m3u8
+#EXTINF:-0 group-title="Sport",PAC12_BayArea
+https://raw.githubusercontent.com/GetToDaChoppaARRRRG/solovox/master/Other/Sport/3.m3u8
+#EXTINF:-0 group-title="Sport",PAC12_LosAngeles
+https://raw.githubusercontent.com/GetToDaChoppaARRRRG/solovox/master/Other/Sport/4.m3u8
+#EXTINF:-0 group-title="Sport",PAC12_Mountain
+https://raw.githubusercontent.com/GetToDaChoppaARRRRG/solovox/master/Other/Sport/5.m3u8
+#EXTINF:-0 group-title="Sport",PAC12_Oregon
+https://raw.githubusercontent.com/GetToDaChoppaARRRRG/solovox/master/Other/Sport/6.m3u8
+#EXTINF:-0 group-title="Sport",PAC12_Washington
+https://raw.githubusercontent.com/GetToDaChoppaARRRRG/solovox/master/Other/Sport/7.m3u8
