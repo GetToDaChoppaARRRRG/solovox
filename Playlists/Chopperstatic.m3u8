@@ -1,2 +1,194 @@
+#EXTM3U
+#EXTINF:-0 group-title="Radio ESP",Cadena_100
+http://195.55.74.212/cope/cadena100.mp3
+#EXTINF:-0 group-title="Radio ESP",LocaFM
+http://5.39.66.128:8012/live
+#EXTINF:-0 group-title="Radio ESP",KissFMMadrid
+http://kissfm.kissfmradio.cires21.com/kissfm.mp3
+#EXTINF:-0 group-title="Radio ESP",Latino
+http://5.39.66.128:8012/live
+#EXTINF:-0 group-title="Radio ESP",RockFM
+http://195.55.74.204/cope/rockfm-low.mp3
+#EXTINF:-0 group-title="Radio ESP",GozaderaFM
+http://server.hablocomunicaciones.com:5000/live
+#EXTINF:-0 group-title="Radio ESP",CanalFiesta
+http://195.10.10.221/rtva/canalfiestaradio_master.mp3
+#EXTINF:-0 group-title="Radio ESP",ElixirFM
+http://radioserver10.profesionalhosting.com:41004/stream/1/
+#EXTINF:-0 group-title="Radio ESP",HitFM
+http://hitfm.kissfmradio.cires21.com/hitfm.mp3
+#EXTINF:-0 group-title="Radio ESP",Radio4G
+http://195.10.10.225/radio4g/radiosigloxxi.mp3
+#EXTINF:-0 group-title="Radio ESP",LaFresca
+http://stream.produccionesdale.com:8899/altacalidad
+#EXTINF:-0 group-title="Radio ESP",80Exitos
+http://streaming.radionomy.com/80-EXITS
+#EXTINF:-0 group-title="Radio ESP",KokunFM
+http://5.79.66.113:8000/stream/1/
+#EXTINF:-0 group-title="Radio ESP",RadioPlaneta
+http://5.79.66.113:8004/;stream/14
+#EXTINF:-0 group-title="Radio ESP",ActivaFM
+http://emisorasmusicales.es:8030/valencia.mp3
+#EXTINF:-0 group-title="Radio ESP",ChanqueteFM
+http://185.23.192.118:8008
+#EXTINF:-0 group-title="Radio ESP",CanalSurAndalucia
+http://195.55.74.208/rtva/canalsurradio_master.mp3
+#EXTINF:-0 group-title="Radio ESP",CanalSurFlamenco
+http://canalflamenco.rtva.stream.flumotion.com/rtva/canalflamenco.mp3.m3u
+
+
+#EXTINF:-0 group-title="Radio UK",Radio1
+https://as-dash-ww-live.akamaized.net/pool_6/live/bbc_radio_one/bbc_radio_one.isml/dash/bbc_radio_one-audio=320000.m3u8
+#EXTINF:-0 group-title="Radio UK",Radio2
+https://as-dash-ww-live.akamaized.net/pool_7/live/bbc_radio_two/bbc_radio_two.isml/dash/bbc_radio_two-audio=320000.m3u8
+#EXTINF:-0 group-title="Radio UK",Radio1Xtra
+https://as-dash-ww-live.akamaized.net/pool_7/live/bbc_1xtra/bbc_1xtra.isml/dash/bbc_1xtra-audio=320000.m3u8
+#EXTINF:-0 group-title="Radio UK",Radio3
+https://as-dash-ww-live.akamaized.net/pool_7/live/bbc_radio_three/bbc_radio_three.isml/dash/bbc_radio_three-audio=320000.m3u8
+#EXTINF:-0 group-title="Radio UK",Radio4
+https://as-dash-ww-live.akamaized.net/pool_6/live/bbc_radio_fourfm/bbc_radio_fourfm.isml/dash/bbc_radio_fourfm-audio=320000.m3u8
+#EXTINF:-0 group-title="Radio UK",Radio4Xtra
+https://as-dash-ww-live.akamaized.net/pool_6/live/bbc_radio_four_extra/bbc_radio_four_extra.isml/dash/bbc_radio_four_extra-audio=320000.m3u8
+#EXTINF:-0 group-title="Radio UK",Radio5Live
+https://as-dash-ww-live.akamaized.net/pool_6/live/bbc_radio_five_live/bbc_radio_five_live.isml/dash/bbc_radio_five_live-audio=320000.m3u8
+#EXTINF:-0 group-title="Radio UK",Radio6Music
+https://as-dash-ww-live.akamaized.net/pool_6/live/bbc_6music/bbc_6music.isml/dash/bbc_6music-audio=320000.m3u8
+#EXTINF:-0 group-title="Radio UK",BBCAsianNetwork
+https://as-dash-ww-live.akamaized.net/pool_6/live/bbc_asian_network/bbc_asian_network.isml/dash/bbc_asian_network-audio=320000.m3u8
+#EXTINF:-0 group-title="Radio UK",BBCWorldService
+https://as-dash-ww-live.akamaized.net/pool_27/live/bbc_world_service/bbc_world_service.isml/dash/bbc_world_service-audio=320000.m3u8
+#EXTINF:-0 group-title="Radio UK",Kiss
+https://stream-kiss.planetradio.co.uk/kissnational.aac
+#EXTINF:-0 group-title="Radio UK",Heart
+http://vis.media-ice.musicradio.com/HeartUKMP3
+#EXTINF:-0 group-title="Radio UK",CapitalRadio
+http://media-sov.musicradio.com/CapitalMP3
+#EXTINF:-0 group-title="Radio UK",JazzFM
+http://edge-ads-03-gos2.sharp-stream.com/jazzfmmobile.mp3
+
+
+#EXTINF:-0 group-title="TVESP",La1
+http://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/index_1500_av-b.m3u8
+#EXTINF:-0 group-title="TVESP",La2
+http://hlsliveamdgl0-lh.akamaihd.net/i/hlslive_1@586367/index_1500_av-b.m3u8
 #EXTINF:-0 group-title="TVESP",Antena3
 http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_4_av-b.m3u8
+#EXTINF:-0 group-title="TVESP",Cuatro
+https://livehlsdai-i.akamaihd.net/hls/live/571643/cuatro/bitrate_4.m3u8
+#EXTINF:-0 group-title="TVESP",Telecinco
+https://livehlsdai-i.akamaihd.net/hls/live/571640/telecinco/bitrate_4.m3u8
+#EXTINF:-0 group-title="TVESP",La_Sexta
+http://a3live-lh.akamaihd.net/i/lasexta_1@35272/index_4_av-b.m3u8
+#EXTINF:-0 group-title="TVESP",Antena3series
+http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/index_4_av-b.m3u8
+#EXTINF:-0 group-title="TVESP",FDF
+https://mdslivehls-i.akamaihd.net/hls/live/571650/fdf/bitrate_4.m3u8
+#EXTINF:-0 group-title="TVESP",Bemad
+https://mdslivehls-i.akamaihd.net/hls/live/571646/bemad/bitrate_4.m3u8
+#EXTINF:-0 group-title="TVESP",Energy
+https://mdslivehls-i.akamaihd.net/hls/live/571649/energy/bitrate_4.m3u8
+#EXTINF:-0 group-title="TVESP",Divinity
+https://mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_4.m3u8
+#EXTINF:-0 group-title="TVESP",Boing
+
+#EXTINF:-0 group-title="TVESP",Nova
+http://a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/index_4_av-b.m3u8
+#EXTINF:-0 group-title="TVESP",Mega
+http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/index_4_av-b.m3u8
+#EXTINF:-0 group-title="TVESP",A3int
+http://a3live-lh.akamaihd.net:80/i/antena3_1@35248/index_4_av-b.m3u8
+#EXTINF:-0 group-title="TVESP",La24
+http://hlsliveamdgl8-lh.akamaihd.net/i/hlsdvrlive_1@583030/index_1500_av-b.m3u8
+#EXTINF:-0 group-title="TVESP",Teledeporte
+http://hlsliveamdgl1-lh.akamaihd.net/i/hlsdvrlive_1@39732/index_1500_av-b.m3u8
+#EXTINF:-0 group-title="TVESP",A3int
+http://a3live-lh.akamaihd.net:80/i/antena3_1@35248/index_4_av-b.m3u8
+#EXTINF:-0 group-title="TVESP",Euronews
+http://euronews-es-b9-cdn.hexaglobe.net/edbc80dac84d0ed64926396f5d36156b/5a9ec0c4/euronews/euronews-euronews-website-web-responsive-2/ewnsabresbkp_spa.smil/ewnsabresbkp_spa_720p.m3u8
+#EXTINF:-0 group-title="TVESP",Hispantv
+http://107.189.40.49:1935/live/hispantv/playlist.m3u8
+#EXTINF:-0 group-title="TVESP",Hittv
+http://kissfm-cires21-video.secure.footprint.net/hittv/bitrate_4.m3u8
+#EXTINF:-0 group-title="TVESP",Mi_Musica
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MMHD/tu1_2.m3u8
+#EXTINF:-0 group-title="TVESP",Tico_Musica
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MESH/tu1_2.m3u8
+#EXTINF:-0 group-title="TVESP",Realmadrid
+http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/index_3_av-b.m3u8
+#EXTINF:-0 group-title="TVESP",Rbetis
+http://rbetis-hls.flumotion.com/rbetis/live/playlist.m3u8
+#EXTINF:-0 group-title="TVESP",Sevillafc
+http://sevillafc_live-lh.akamaihd.net/i/video_0@354142/index_0700_av-p.m3u8
+#EXTINF:-0 group-title="TVESP",Flamenco
+http://cast.streamingconnect.com:1935/csflamenco/csflamenco/playlist.m3u8
+#EXTINF:-0 group-title="TVESP",Aragontv
+http://195.55.74.203/aragontv/hls-live/chunklist.m3u8
+#EXTINF:-0 group-title="TVESP",Mediterraneo8
+http://streaming-fr02.enetres.net/489DDF7FE98241D19D8970314BC9D3EF021/smil:live.smil/chunklist_w1025314085_b850000.m3u8
+#EXTINF:-0 group-title="TVESP",RiberaVLC
+http://orion.comelson.es/ribera/livestream/chunklist_w476320974.m3u8
+#EXTINF:-0 group-title="TVESP",Telemadrid
+http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/telemadrid1/bitrate_1.m3u8
+#EXTINF:-0 group-title="TVESP",Madridlaotra
+http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/laotra1/bitrate_1.m3u8
+#EXTINF:-0 group-title="TVESP",Murcia
+http://rtvmurcia_01-lh.akamaihd.net/i/rtvmurcia_1_0@507973/index_0_av-p.m3u8
+#EXTINF:-0 group-title="TVESP",Canarias
+http://streaming2.mad.idec.net/rtvcnet/rtvcnet.drb.smil/Playlist.m3u8
+#EXTINF:-0 group-title="TVESP",Castillalamancha
+http://klive-a.akamaihd.net/dc-1/live/hls/p/2288691/e/1_c9gw17x6/sd/10000/t/o8xKPUjaWz2E6hV7vICo1Q/index-s32.m3u8
+#EXTINF:-0 group-title="TVESP",Canal_extremadura
+http://hlstv.canalextremadura.es/livetv/smil:multistream.smil/chunklist_b1596000_DVR.m3u8
+#EXTINF:-0 group-title="TVESP",Cordoba
+http://streaming.enetres.net/69BF7C8664934222BA3F58530449B8CE021/mobile/playlist.m3u8
+#EXTINF:-0 group-title="TVESP",13tv
+3tv
+#EXTINF:-0 group-title="TVESP",Ib3
+http://ibsatiphone.ib3tv.com/iphoneliveIB3/IB3/bitrate_4.m3u8
+#EXTINF:-0 group-title="TVESP",Rtvceuta
+http://teledifusion.tv:1935/rtvcetv/rtvcetvlive/playlist.m3u8
+#EXTINF:-0 group-title="TVESP",Navarra
+http://nws.nice264.com/SmilLive/getLiveIOS.smil?stream=NTV_livenatvmb&system=NTV&protocol=http_cupertino/playlist.m3u8
+#EXTINF:-0 group-title="TVESP",TV3
+http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:tv3_web/playlist.m3u8
+#EXTINF:-0 group-title="TVESP",TV324
+http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:324_web/playlist.m3u8
+#EXTINF:-0 group-title="TVESP",C33
+http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:c33_web/playlist.m3u8
+#EXTINF:-0 group-title="TVESP",8TV
+TV
+#EXTINF:-0 group-title="TVESP",Galicia
+http://europa-crtvg.flumotion.com/crtvg/europa/chunks.m3u8
+#EXTINF:-0 group-title="TVESP",Eitb
+http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/index_0748_av-p.m3u8
+
+#EXTINF:-0 group-title="ITA",RaiPremium
+http://b2everyrai-lh.akamaihd.net/i/raipremium_1@181837/index_1800_av-b.m3u8
+#EXTINF:-0 group-title="ITA",RaiMovie
+http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/index_1800_av-b.m3u8
+#EXTINF:-0 group-title="ITA",RaiStoria
+http://everyrai-lh.akamaihd.net/i/raistoria_1@308058/index_900_av-b.m3u8
+#EXTINF:-0 group-title="ITA",RaiScuola
+http://everyrai-lh.akamaihd.net/i/raiscuola_1@177965/index_900_av-b.m3u8
+#EXTINF:-0 group-title="ITA",Rai5
+http://b2everyrai-lh.akamaihd.net/i/rai5_1@182695/index_1800_av-b.m3u8
+#EXTINF:-0 group-title="ITA",RaiGulp
+http://b2everyrai-lh.akamaihd.net/i/raigulp_1@66350/index_1800_av-p.m3u8
+#EXTINF:-0 group-title="ITA",RaiYoYo
+http://b2everyrai-lh.akamaihd.net:80/i/raiyoyo_1@191405/index_1800_av-p.m3u8
+
+
+#EXTINF:-0 group-title="Sport",PAC12_Networks
+http://p12n-lh.akamaihd.net/i/network_delivery@428818/index_2328_av-p.m3u8
+#EXTINF:-0 group-title="Sport",PAC12_Arizona
+http://p12a-lh.akamaihd.net/i/arizona_delivery@199730/index_2328_av-p.m3u8
+#EXTINF:-0 group-title="Sport",PAC12_BayArea
+http://b2everyrai-lh.akamaihd.net/i/raipremium_1@181837/index_1200_av-b.m3u8
+#EXTINF:-0 group-title="Sport",PAC12_LosAngeles
+http://p12l-lh.akamaihd.net/i/la_delivery@425541/index_2328_av-p.m3u8
+#EXTINF:-0 group-title="Sport",PAC12_Mountain
+http://p12m-lh.akamaihd.net/i/mountain_delivery@428912/index_2328_av-p.m3u8
+#EXTINF:-0 group-title="Sport",PAC12_Oregon
+http://p12o-lh.akamaihd.net/i/oregon_delivery@103261/index_2328_av-p.m3u8
+#EXTINF:-0 group-title="Sport",PAC12_Washington
+http://p12w-lh.akamaihd.net/i/washington_delivery@426584/index_2328_av-p.m3u8
