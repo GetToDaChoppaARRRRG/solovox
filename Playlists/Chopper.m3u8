@@ -66,7 +66,8 @@ https://raw.githubusercontent.com/GetToDaChoppaARRRRG/solovox/master/Radio/UK/13
 #EXTINF:-0 group-title="Radio UK",JazzFM
 https://raw.githubusercontent.com/GetToDaChoppaARRRRG/solovox/master/Radio/UK/14.m3u8
 
-
+#EXTINF:-0 group-title="TVESP",Andalucia
+https://raw.githubusercontent.com/GetToDaChoppaARRRRG/solovox/master/ESP/0.m3u8
 #EXTINF:-0 group-title="TVESP",La1
 https://raw.githubusercontent.com/GetToDaChoppaARRRRG/solovox/master/ESP/1.m3u8
 #EXTINF:-0 group-title="TVESP",La2
