@@ -53,6 +53,8 @@ http://107.189.40.49:1935/live/hispantv/playlist.m3u8
 https://live-edge-sxb-1.cdn.enetres.net/9E9557EFCEBB43A89CEC8FBD3C500247022/llive-500/index.m3u8
 #EXTINF:-0 group-title="TVESP",LaOchoValencia
 https://live-edge-sxb-1.cdn.enetres.net/489DDF7FE98241D19D8970314BC9D3EF021/live-1200/index.m3u8
+#EXTINF:-0 group-title="TVESP",TeleLevante
+http://teledifusion.tv:1935/levantetvlive/mp4:levantetvlive/playlist.m3u8
 #EXTINF:-0 group-title="TVESP",Hittv
 http://kissfm-cires21-video.secure.footprint.net/hittv/bitrate_4.m3u8
 #EXTINF:-0 group-title="TVESP",Mi_Musica
