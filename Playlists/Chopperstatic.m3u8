@@ -21,7 +21,7 @@ https://lasexta-pull2c-a3player.secure.footprint.net/lasexta/bitrate_4.m3u8
 #https://livepull1.secure.footprint.net/lasextampp/bitrate_4.m3u8
 #EXTINF:-0 group-title="TVESP",Antena3 series
 https://a3series-pull2a-a3player.secure.footprint.net/a3series/bitrate_4.m3u8
-#EXTINF:-0 group-title,"TVESP",FDF
+#EXTINF:-0 group-title="TVESP",FDF
 https://mdslivehls-i.akamaihd.net/hls/live/571650/fdf/bitrate_4.m3u8
 #EXTINF:-0 group-title="TVESP",Bemad
 https://mdslivehlsb-i.akamaihd.net/hls/live/623615/bemad/bitrate_4.m3u8 
@@ -49,6 +49,10 @@ http://a3live-lh.akamaihd.net:80/i/antena3_1@35248/index_4_av-b.m3u8
 http://euronews-es-b9-cdn.hexaglobe.net/edbc80dac84d0ed64926396f5d36156b/5a9ec0c4/euronews/euronews-euronews-website-web-responsive-2/ewnsabresbkp_spa.smil/ewnsabresbkp_spa_720p.m3u8
 #EXTINF:-0 group-title="TVESP",Hispantv
 http://107.189.40.49:1935/live/hispantv/playlist.m3u8
+#EXTINF:-0 group-title="TVESP",Tele7Valencia
+https://live-edge-sxb-1.cdn.enetres.net/9E9557EFCEBB43A89CEC8FBD3C500247022/llive-500/index.m3u8
+#EXTINF:-0 group-title="TVESP",LaOchoValencia
+https://live-edge-sxb-1.cdn.enetres.net/489DDF7FE98241D19D8970314BC9D3EF021/live-1200/index.m3u8
 #EXTINF:-0 group-title="TVESP",Hittv
 http://kissfm-cires21-video.secure.footprint.net/hittv/bitrate_4.m3u8
 #EXTINF:-0 group-title="TVESP",Mi_Musica
