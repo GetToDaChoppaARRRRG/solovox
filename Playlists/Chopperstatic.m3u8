@@ -70,7 +70,7 @@ http://rbetis-hls.flumotion.com/rbetis/live/playlist.m3u8
 #EXTINF:-0 group-title="TVESP",Sevillafc
 http://sevillafc_live-lh.akamaihd.net/i/video_0@354142/index_0700_av-p.m3u8
 #EXTINF:-0 group-title="TVESP",Flamenco
-http://cast.streamingconnect.com:1935/csflamenco/csflamenco/playlist.m3u8
+https://593fa17dec176.streamlock.net/csflamenco/csflamenco.stream/.m3u8
 #EXTINF:-0 group-title="TVESP",Aragontv
 http://aragontv.stream.flumotion.com/aragontv/hls-live/main.m3u8
 #EXTINF:-0 group-title="TVESP",Mediterraneo8
