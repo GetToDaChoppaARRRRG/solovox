@@ -22,7 +22,7 @@ https://livestartover.atresmedia.com/lasexta/bitrate_4.m3u8
 #https://lasexta-pull2c-a3player.secure.footprint.net/lasexta/bitrate_4.m3u8
 #https://livepull1.secure.footprint.net/lasextampp/bitrate_4.m3u8
 #EXTINF:-0 group-title="TVESP",Antena3 series
-https://a3series-pull2a-a3player.secure.footprint.net/a3series/bitrate_4.m3u8
+https://livestartover.atresmedia.com/a3series/bitrate_4.m3u8
 #EXTINF:-0 group-title="TVESP",FDF
 https://mdslivehls-i.akamaihd.net/hls/live/571650/fdf/bitrate_4.m3u8
 #EXTINF:-0 group-title="TVESP",Bemad
