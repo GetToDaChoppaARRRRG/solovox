@@ -44,7 +44,7 @@ https://neox-pull1c-a3player.secure.footprint.net/neox/bitrate_4.m3u8
 #EXTINF:-0 group-title="TVESP",A3int
 http://a3live-lh.akamaihd.net:80/i/antena3_1@35248/index_4_av-b.m3u8
 #EXTINF:-0 group-title="TVESP",Paramount
-http://paramount.live.flumotion.com/live/chunks.m3u8
+http://paramount.live.flumotion.com/live/playlist.m3u8#.m3u8
 #EXTINF:-0 group-title="TVESP",La24
 http://hlsliveamdgl8-lh.akamaihd.net/i/hlsdvrlive_1@583030/index_1500_av-b.m3u8
 #EXTINF:-0 group-title="TVESP",Teledeporte
