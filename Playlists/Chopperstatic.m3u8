@@ -111,6 +111,8 @@ http://nws.nice264.com/SmilLive/getLiveIOS.smil?stream=NTV_livenatvmb&system=NTV
 http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:tv3_web/playlist.m3u8
 #EXTINF:-0 group-title="TVESP",TV324
 http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:324_web/playlist.m3u8
+#EXTINF:-0 group-title="TVESP",E3
+https://ccma-tva-es-cellnex-live-hls.secure.footprint.net/cat/ngrp:es3_web/.m3u8
 #EXTINF:-0 group-title="TVESP",C33
 http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:c33_web/playlist.m3u8
 #EXTINF:-0 group-title="TVESP",8TV
