@@ -122,6 +122,13 @@ http://europa-crtvg.flumotion.com/crtvg/europa/chunks.m3u8
 #EXTINF:-0 group-title="TVESP",Eitb
 http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/index_0748_av-p.m3u8
 
+#EXTINF:-0 group-title="TVESP", Marca1
+https://accesorioscoche.club/t1/t1.m3u8
+#EXTINF:-0 group-title="TVESP", Marca2
+https://accesorioscoche.club/t2/t2.m3u8
+#EXTINF:-0 group-title="TVESP", Marca3
+https://accesorioscoche.club/t3/t3.m3u8
+
 #EXTINF:-0 group-title="ITA",RaiPremium
 http://b2everyrai-lh.akamaihd.net/i/raipremium_1@181837/index_1800_av-b.m3u8
 #EXTINF:-0 group-title="ITA",RaiMovie
