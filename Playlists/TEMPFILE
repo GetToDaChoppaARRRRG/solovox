@@ -1,0 +1,440 @@
+  
+Andalucia  TVESP
+ http://canalsur-live.hls.adaptive.level3.net/hls-live/canalsur_live-rtva/_definst_/live/stream3.m3u8 
+La1  TVESP
+ http://hlsliveamdgl7-lh.akamaihd.net/i/hlslive_1@583043/index_2800_av-b.m3u8?sd=10&rebase=on 
+La2  TVESP
+ http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl0/la2_lv3_aosv4_gl0/la2_lv3_aosv4_gl0.isml/la2_lv3_aosv4_gl0-video=1500000.m3u8 
+Antena3  TVESP
+ https://livestartover.atresmedia.com/antena3/bitrate_4.m3u8 
+Cuatro  TVESP
+ https://livehlsdai-i.akamaihd.net/hls/live/571643/cuatro/bitrate_4.m3u8 
+Telecinco  TVESP
+ https://livehlsdai-i.akamaihd.net/hls/live/571640/telecinco/bitrate_4.m3u8 
+La_Sexta  TVESP
+ https://livestartover.atresmedia.com/lasexta/bitrate_4.m3u8 
+Antena3 series  TVESP
+ https://livestartover.atresmedia.com/a3series/bitrate_4.m3u8 
+DKiss  TVESP
+ https://kissfm-cires21-video.secure.footprint.net/dkiss/bitrate_4.m3u8 
+FDF  TVESP
+ https://mdslivehls-i.akamaihd.net/hls/live/571650/fdf/bitrate_4.m3u8 
+Bemad  TVESP
+ https://mdslivehlsb-i.akamaihd.net/hls/live/623615/bemad/bitrate_4.m3u8 
+Energy  TVESP
+ https://mdslivehlsb-i.akamaihd.net/hls/live/623617/energy/bitrate_4.m3u8 
+Divinity  TVESP
+ https://mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_4.m3u8 
+Boing  TVESP
+ https://mdslivehlsb-i.akamaihd.net/hls/live/623616/boing/bitrate_4.m3u8 
+Nova  TVESP
+ https://nova-pull2c-a3player.secure.footprint.net/nova/bitrate_4.m3u8 
+Mega  TVESP
+ https://mega-pull2a-a3player.secure.footprint.net/mega/bitrate_4.m3u8 
+Neox  TVESP
+ https://neox-pull1c-a3player.secure.footprint.net/neox/bitrate_4.m3u8 
+A3int  TVESP
+ http://a3live-lh.akamaihd.net:80/i/antena3_1@35248/index_4_av-b.m3u8 
+Paramount  TVESP
+ http://paramount.live.flumotion.com/live/playlist.m3u8#.m3u8 
+MTMAD  TVESP
+ https://mdssplive-lh.akamaihd.net/i/mtmad_1@744785/index_2500_av-p.m3u8 
+Canal Sur Cocina  TVESP
+ https://593fa17dec176.streamlock.net/cscocina/cscocina.stream/.m3u8 
+La24  TVESP
+ http://hlsliveamdgl8-lh.akamaihd.net/i/hlsdvrlive_1@583030/index_1500_av-b.m3u8 
+Teledeporte  TVESP
+ http://hlsliveamdgl1-lh.akamaihd.net/i/hlsdvrlive_1@39732/index_1500_av-b.m3u8 
+A3int  TVESP
+ http://a3live-lh.akamaihd.net:80/i/antena3_1@35248/index_4_av-b.m3u8 
+Euronews  TVESP
+ http://euronews-es-b9-cdn.hexaglobe.net/edbc80dac84d0ed64926396f5d36156b/5a9ec0c4/euronews/euronews-euronews-website-web-responsive-2/ewnsabresbkp_spa.smil/ewnsabresbkp_spa_720p.m3u8 
+Hispantv  TVESP
+ http://107.189.40.49:1935/live/hispantv/playlist.m3u8 
+Tele7Valencia  TVESP
+ https://live-edge-sxb-1.cdn.enetres.net/9E9557EFCEBB43A89CEC8FBD3C500247022/llive-500/index.m3u8 
+LaOchoValencia  TVESP
+ https://live-edge-sxb-1.cdn.enetres.net/489DDF7FE98241D19D8970314BC9D3EF021/live-1200/index.m3u8 
+TeleLevante  TVESP
+ http://teledifusion.tv:1935/levantetvlive/mp4:levantetvlive/playlist.m3u8 
+Hittv  TVESP
+ http://kissfm-cires21-video.secure.footprint.net/hittv/bitrate_4.m3u8 
+Mi_Musica  TVESP
+ http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MMHD/tu1_2.m3u8 
+Tico_Musica  TVESP
+ http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MESH/tu1_2.m3u8 
+Realmadrid  TVESP
+ http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/index_3_av-b.m3u8 
+Rbetis  TVESP
+ http://rbetis-hls.flumotion.com/rbetis/live/playlist.m3u8 
+Sevillafc  TVESP
+ http://sevillafc_live-lh.akamaihd.net/i/video_0@354142/index_0700_av-p.m3u8 
+Flamenco  TVESP
+ https://593fa17dec176.streamlock.net/csflamenco/csflamenco.stream/.m3u8 
+Aragontv  TVESP
+ http://aragontv.stream.flumotion.com/aragontv/hls-live/main.m3u8 
+Mediterraneo8  TVESP
+ http://streaming-fr02.enetres.net/489DDF7FE98241D19D8970314BC9D3EF021/smil:live.smil/chunklist_w1025314085_b850000.m3u8 
+RiberaVLC  TVESP
+ http://orion.comelson.es/ribera/livestream/chunklist_w476320974.m3u8 
+Telemadrid  TVESP
+ http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/telemadrid1/bitrate_1.m3u8 
+Madridlaotra  TVESP
+ http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/laotra1/bitrate_1.m3u8 
+Murcia  TVESP
+ http://rtvmurcia_01-lh.akamaihd.net/i/rtvmurcia_1_0@507973/index_0_av-p.m3u8 
+Canarias  TVESP
+ http://streaming2.mad.idec.net/rtvcnet/rtvcnet.drb.smil/Playlist.m3u8 
+Castillalamancha  TVESP
+ http://klive-a.akamaihd.net/dc-1/live/hls/p/2288691/e/1_c9gw17x6/sd/10000/t/o8xKPUjaWz2E6hV7vICo1Q/index-s32.m3u8 
+Canal_extremadura  TVESP
+ http://hlstv.canalextremadura.es/livetv/smil:multistream.smil/chunklist_b1596000_DVR.m3u8 
+Cordoba  TVESP
+ http://streaming.enetres.net/69BF7C8664934222BA3F58530449B8CE021/mobile/playlist.m3u8 
+Ib3  TVESP
+ http://ibsatiphone.ib3tv.com/iphoneliveIB3/IB3/bitrate_4.m3u8 
+Rtvceuta  TVESP
+ http://teledifusion.tv:1935/rtvcetv/rtvcetvlive/playlist.m3u8 
+Navarra  TVESP
+ http://nws.nice264.com/SmilLive/getLiveIOS.smil?stream=NTV_livenatvmb&system=NTV&protocol=http_cupertino/playlist.m3u8 
+TV3  TVESP
+ http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:tv3_web/playlist.m3u8 
+TV324  TVESP
+ http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:324_web/playlist.m3u8 
+E3  TVESP
+ https://ccma-tva-es-cellnex-live-hls.secure.footprint.net/cat/ngrp:es3_web/.m3u8 
+C33  TVESP
+ http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:c33_web/playlist.m3u8 
+8TVValencia  TVESP
+ https://live-edge-gra-1.cdn.enetres.net/489DDF7FE98241D19D8970314BC9D3EF021/live-1200/index.m3u8 
+Galicia  TVESP
+ http://europa-crtvg.flumotion.com/crtvg/europa/chunks.m3u8 
+Eitb  TVESP
+ http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/index_0748_av-p.m3u8 
+  
+ Marca1  TVESP
+ https://accesorioscoche.club/t1/t1.m3u8 
+ Marca2  TVESP
+ https://accesorioscoche.club/t2/t2.m3u8 
+ Marca3  TVESP
+ https://accesorioscoche.club/t3/t3.m3u8 
+  
+RaiPremium  ITA
+ http://b2everyrai-lh.akamaihd.net/i/raipremium_1@181837/index_1800_av-b.m3u8 
+RaiMovie  ITA
+ http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/index_1800_av-b.m3u8 
+RaiStoria  ITA
+ http://everyrai-lh.akamaihd.net/i/raistoria_1@308058/index_900_av-b.m3u8 
+RaiScuola  ITA
+ http://everyrai-lh.akamaihd.net/i/raiscuola_1@177965/index_900_av-b.m3u8 
+Rai5  ITA
+ http://b2everyrai-lh.akamaihd.net/i/rai5_1@182695/index_1800_av-b.m3u8 
+RaiGulp  ITA
+ http://b2everyrai-lh.akamaihd.net/i/raigulp_1@66350/index_1800_av-p.m3u8 
+RaiYoYo  ITA
+ http://b2everyrai-lh.akamaihd.net:80/i/raiyoyo_1@191405/index_1800_av-p.m3u8 
+  
+  
+PAC12_Networks  Sport
+ http://p12n-lh.akamaihd.net/i/network_delivery@428818/index_2328_av-p.m3u8 
+PAC12_Arizona  Sport
+ http://p12a-lh.akamaihd.net/i/arizona_delivery@199730/index_2328_av-p.m3u8 
+PAC12_BayArea  Sport
+ http://b2everyrai-lh.akamaihd.net/i/raipremium_1@181837/index_1200_av-b.m3u8 
+PAC12_LosAngeles  Sport
+ http://p12l-lh.akamaihd.net/i/la_delivery@425541/index_2328_av-p.m3u8 
+PAC12_Mountain  Sport
+ http://p12m-lh.akamaihd.net/i/mountain_delivery@428912/index_2328_av-p.m3u8 
+PAC12_Oregon  Sport
+ http://p12o-lh.akamaihd.net/i/oregon_delivery@103261/index_2328_av-p.m3u8 
+PAC12_Washington  Sport
+ http://p12w-lh.akamaihd.net/i/washington_delivery@426584/index_2328_av-p.m3u8 
+  
+Cadena_100  Radio ESP
+ http://195.55.74.212/cope/cadena100.mp3 
+LocaFM  Radio ESP
+ http://5.39.66.128:8012/live 
+KissFMMadrid  Radio ESP
+ http://kissfm.kissfmradio.cires21.com/kissfm.mp3 
+Latino  Radio ESP
+ http://5.39.66.128:8012/live 
+RockFM  Radio ESP
+ http://195.55.74.204/cope/rockfm-low.mp3 
+GozaderaFM  Radio ESP
+ http://server.hablocomunicaciones.com:5000/live 
+CanalFiesta  Radio ESP
+ http://195.10.10.221/rtva/canalfiestaradio_master.mp3 
+ElixirFM  Radio ESP
+ http://radioserver10.profesionalhosting.com:41004/stream/1/ 
+HitFM  Radio ESP
+ http://hitfm.kissfmradio.cires21.com/hitfm.mp3 
+Radio4G  Radio ESP
+ http://195.10.10.225/radio4g/radiosigloxxi.mp3 
+LaFresca  Radio ESP
+ http://stream.produccionesdale.com:8899/altacalidad 
+80Exitos  Radio ESP
+ http://streaming.radionomy.com/80-EXITS 
+KokunFM  Radio ESP
+ http://5.79.66.113:8000/stream/1/ 
+RadioPlaneta  Radio ESP
+ http://5.79.66.113:8004/;stream/14 
+ActivaFM  Radio ESP
+ http://emisorasmusicales.es:8030/valencia.mp3 
+ChanqueteFM  Radio ESP
+ http://185.23.192.118:8008 
+CanalSurAndalucia  Radio ESP
+ http://195.55.74.208/rtva/canalsurradio_master.mp3 
+CanalSurFlamenco  Radio ESP
+ http://canalflamenco.rtva.stream.flumotion.com/rtva/canalflamenco.mp3.m3u 
+  
+  
+Radio1  Radio UK
+ https://as-dash-ww-live.akamaized.net/pool_6/live/bbc_radio_one/bbc_radio_one.isml/dash/bbc_radio_one-audio=320000.m3u8 
+Radio2  Radio UK
+ https://as-dash-ww-live.akamaized.net/pool_7/live/bbc_radio_two/bbc_radio_two.isml/dash/bbc_radio_two-audio=320000.m3u8 
+Radio1Xtra  Radio UK
+ https://as-dash-ww-live.akamaized.net/pool_7/live/bbc_1xtra/bbc_1xtra.isml/dash/bbc_1xtra-audio=320000.m3u8 
+Radio3  Radio UK
+ https://as-dash-ww-live.akamaized.net/pool_7/live/bbc_radio_three/bbc_radio_three.isml/dash/bbc_radio_three-audio=320000.m3u8 
+Radio4  Radio UK
+ https://as-dash-ww-live.akamaized.net/pool_6/live/bbc_radio_fourfm/bbc_radio_fourfm.isml/dash/bbc_radio_fourfm-audio=320000.m3u8 
+Radio4Xtra  Radio UK
+ https://as-dash-ww-live.akamaized.net/pool_6/live/bbc_radio_four_extra/bbc_radio_four_extra.isml/dash/bbc_radio_four_extra-audio=320000.m3u8 
+Radio5Live  Radio UK
+ https://as-dash-ww-live.akamaized.net/pool_6/live/bbc_radio_five_live/bbc_radio_five_live.isml/dash/bbc_radio_five_live-audio=320000.m3u8 
+Radio6Music  Radio UK
+ https://as-dash-ww-live.akamaized.net/pool_6/live/bbc_6music/bbc_6music.isml/dash/bbc_6music-audio=320000.m3u8 
+BBCAsianNetwork  Radio UK
+ https://as-dash-ww-live.akamaized.net/pool_6/live/bbc_asian_network/bbc_asian_network.isml/dash/bbc_asian_network-audio=320000.m3u8 
+BBCWorldService  Radio UK
+ https://as-dash-ww-live.akamaized.net/pool_27/live/bbc_world_service/bbc_world_service.isml/dash/bbc_world_service-audio=320000.m3u8 
+Kiss  Radio UK
+ https://stream-kiss.planetradio.co.uk/kissnational.aac 
+Heart  Radio UK
+ http://vis.media-ice.musicradio.com/HeartUKMP3 
+CapitalRadio  Radio UK
+ http://media-sov.musicradio.com/CapitalMP3 
+JazzFM  Radio UK
+ http://edge-ads-03-gos2.sharp-stream.com/jazzfmmobile.mp3 
+  
+  
+  ''
+Andalucia  'TVESP'
+ http://canalsur-live.hls.adaptive.level3.net/hls-live/canalsur_live-rtva/_definst_/live/stream3.m3u8 ''
+La1  'TVESP'
+ http://hlsliveamdgl7-lh.akamaihd.net/i/hlslive_1@583043/index_2800_av-b.m3u8?sd=10&rebase=on ''
+La2  'TVESP'
+ http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl0/la2_lv3_aosv4_gl0/la2_lv3_aosv4_gl0.isml/la2_lv3_aosv4_gl0-video=1500000.m3u8 ''
+Antena3  'TVESP'
+ https://livestartover.atresmedia.com/antena3/bitrate_4.m3u8 ''
+Cuatro  'TVESP'
+ https://livehlsdai-i.akamaihd.net/hls/live/571643/cuatro/bitrate_4.m3u8 ''
+Telecinco  'TVESP'
+ https://livehlsdai-i.akamaihd.net/hls/live/571640/telecinco/bitrate_4.m3u8 ''
+La_Sexta  'TVESP'
+ https://livestartover.atresmedia.com/lasexta/bitrate_4.m3u8 ''
+Antena3 series  'TVESP'
+ https://livestartover.atresmedia.com/a3series/bitrate_4.m3u8 ''
+DKiss  'TVESP'
+ https://kissfm-cires21-video.secure.footprint.net/dkiss/bitrate_4.m3u8 ''
+FDF  'TVESP'
+ https://mdslivehls-i.akamaihd.net/hls/live/571650/fdf/bitrate_4.m3u8 ''
+Bemad  'TVESP'
+ https://mdslivehlsb-i.akamaihd.net/hls/live/623615/bemad/bitrate_4.m3u8 ''
+Energy  'TVESP'
+ https://mdslivehlsb-i.akamaihd.net/hls/live/623617/energy/bitrate_4.m3u8 ''
+Divinity  'TVESP'
+ https://mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_4.m3u8 ''
+Boing  'TVESP'
+ https://mdslivehlsb-i.akamaihd.net/hls/live/623616/boing/bitrate_4.m3u8 ''
+Nova  'TVESP'
+ https://nova-pull2c-a3player.secure.footprint.net/nova/bitrate_4.m3u8 ''
+Mega  'TVESP'
+ https://mega-pull2a-a3player.secure.footprint.net/mega/bitrate_4.m3u8 ''
+Neox  'TVESP'
+ https://neox-pull1c-a3player.secure.footprint.net/neox/bitrate_4.m3u8 ''
+A3int  'TVESP'
+ http://a3live-lh.akamaihd.net:80/i/antena3_1@35248/index_4_av-b.m3u8 ''
+Paramount  'TVESP'
+ http://paramount.live.flumotion.com/live/playlist.m3u8#.m3u8 ''
+MTMAD  'TVESP'
+ https://mdssplive-lh.akamaihd.net/i/mtmad_1@744785/index_2500_av-p.m3u8 ''
+Canal Sur Cocina  'TVESP'
+ https://593fa17dec176.streamlock.net/cscocina/cscocina.stream/.m3u8 ''
+La24  'TVESP'
+ http://hlsliveamdgl8-lh.akamaihd.net/i/hlsdvrlive_1@583030/index_1500_av-b.m3u8 ''
+Teledeporte  'TVESP'
+ http://hlsliveamdgl1-lh.akamaihd.net/i/hlsdvrlive_1@39732/index_1500_av-b.m3u8 ''
+A3int  'TVESP'
+ http://a3live-lh.akamaihd.net:80/i/antena3_1@35248/index_4_av-b.m3u8 ''
+Euronews  'TVESP'
+ http://euronews-es-b9-cdn.hexaglobe.net/edbc80dac84d0ed64926396f5d36156b/5a9ec0c4/euronews/euronews-euronews-website-web-responsive-2/ewnsabresbkp_spa.smil/ewnsabresbkp_spa_720p.m3u8 ''
+Hispantv  'TVESP'
+ http://107.189.40.49:1935/live/hispantv/playlist.m3u8 ''
+Tele7Valencia  'TVESP'
+ https://live-edge-sxb-1.cdn.enetres.net/9E9557EFCEBB43A89CEC8FBD3C500247022/llive-500/index.m3u8 ''
+LaOchoValencia  'TVESP'
+ https://live-edge-sxb-1.cdn.enetres.net/489DDF7FE98241D19D8970314BC9D3EF021/live-1200/index.m3u8 ''
+TeleLevante  'TVESP'
+ http://teledifusion.tv:1935/levantetvlive/mp4:levantetvlive/playlist.m3u8 ''
+Hittv  'TVESP'
+ http://kissfm-cires21-video.secure.footprint.net/hittv/bitrate_4.m3u8 ''
+Mi_Musica  'TVESP'
+ http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MMHD/tu1_2.m3u8 ''
+Tico_Musica  'TVESP'
+ http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MESH/tu1_2.m3u8 ''
+Realmadrid  'TVESP'
+ http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/index_3_av-b.m3u8 ''
+Rbetis  'TVESP'
+ http://rbetis-hls.flumotion.com/rbetis/live/playlist.m3u8 ''
+Sevillafc  'TVESP'
+ http://sevillafc_live-lh.akamaihd.net/i/video_0@354142/index_0700_av-p.m3u8 ''
+Flamenco  'TVESP'
+ https://593fa17dec176.streamlock.net/csflamenco/csflamenco.stream/.m3u8 ''
+Aragontv  'TVESP'
+ http://aragontv.stream.flumotion.com/aragontv/hls-live/main.m3u8 ''
+Mediterraneo8  'TVESP'
+ http://streaming-fr02.enetres.net/489DDF7FE98241D19D8970314BC9D3EF021/smil:live.smil/chunklist_w1025314085_b850000.m3u8 ''
+RiberaVLC  'TVESP'
+ http://orion.comelson.es/ribera/livestream/chunklist_w476320974.m3u8 ''
+Telemadrid  'TVESP'
+ http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/telemadrid1/bitrate_1.m3u8 ''
+Madridlaotra  'TVESP'
+ http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/laotra1/bitrate_1.m3u8 ''
+Murcia  'TVESP'
+ http://rtvmurcia_01-lh.akamaihd.net/i/rtvmurcia_1_0@507973/index_0_av-p.m3u8 ''
+Canarias  'TVESP'
+ http://streaming2.mad.idec.net/rtvcnet/rtvcnet.drb.smil/Playlist.m3u8 ''
+Castillalamancha  'TVESP'
+ http://klive-a.akamaihd.net/dc-1/live/hls/p/2288691/e/1_c9gw17x6/sd/10000/t/o8xKPUjaWz2E6hV7vICo1Q/index-s32.m3u8 ''
+Canal_extremadura  'TVESP'
+ http://hlstv.canalextremadura.es/livetv/smil:multistream.smil/chunklist_b1596000_DVR.m3u8 ''
+Cordoba  'TVESP'
+ http://streaming.enetres.net/69BF7C8664934222BA3F58530449B8CE021/mobile/playlist.m3u8 ''
+Ib3  'TVESP'
+ http://ibsatiphone.ib3tv.com/iphoneliveIB3/IB3/bitrate_4.m3u8 ''
+Rtvceuta  'TVESP'
+ http://teledifusion.tv:1935/rtvcetv/rtvcetvlive/playlist.m3u8 ''
+Navarra  'TVESP'
+ http://nws.nice264.com/SmilLive/getLiveIOS.smil?stream=NTV_livenatvmb&system=NTV&protocol=http_cupertino/playlist.m3u8 ''
+TV3  'TVESP'
+ http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:tv3_web/playlist.m3u8 ''
+TV324  'TVESP'
+ http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:324_web/playlist.m3u8 ''
+E3  'TVESP'
+ https://ccma-tva-es-cellnex-live-hls.secure.footprint.net/cat/ngrp:es3_web/.m3u8 ''
+C33  'TVESP'
+ http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:c33_web/playlist.m3u8 ''
+8TVValencia  'TVESP'
+ https://live-edge-gra-1.cdn.enetres.net/489DDF7FE98241D19D8970314BC9D3EF021/live-1200/index.m3u8 ''
+Galicia  'TVESP'
+ http://europa-crtvg.flumotion.com/crtvg/europa/chunks.m3u8 ''
+Eitb  'TVESP'
+ http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/index_0748_av-p.m3u8 ''
+  ''
+ Marca1  'TVESP'
+ https://accesorioscoche.club/t1/t1.m3u8 ''
+ Marca2  'TVESP'
+ https://accesorioscoche.club/t2/t2.m3u8 ''
+ Marca3  'TVESP'
+ https://accesorioscoche.club/t3/t3.m3u8 ''
+  ''
+RaiPremium  'ITA'
+ http://b2everyrai-lh.akamaihd.net/i/raipremium_1@181837/index_1800_av-b.m3u8 ''
+RaiMovie  'ITA'
+ http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/index_1800_av-b.m3u8 ''
+RaiStoria  'ITA'
+ http://everyrai-lh.akamaihd.net/i/raistoria_1@308058/index_900_av-b.m3u8 ''
+RaiScuola  'ITA'
+ http://everyrai-lh.akamaihd.net/i/raiscuola_1@177965/index_900_av-b.m3u8 ''
+Rai5  'ITA'
+ http://b2everyrai-lh.akamaihd.net/i/rai5_1@182695/index_1800_av-b.m3u8 ''
+RaiGulp  'ITA'
+ http://b2everyrai-lh.akamaihd.net/i/raigulp_1@66350/index_1800_av-p.m3u8 ''
+RaiYoYo  'ITA'
+ http://b2everyrai-lh.akamaihd.net:80/i/raiyoyo_1@191405/index_1800_av-p.m3u8 ''
+  ''
+  ''
+PAC12_Networks  'Sport'
+ http://p12n-lh.akamaihd.net/i/network_delivery@428818/index_2328_av-p.m3u8 ''
+PAC12_Arizona  'Sport'
+ http://p12a-lh.akamaihd.net/i/arizona_delivery@199730/index_2328_av-p.m3u8 ''
+PAC12_BayArea  'Sport'
+ http://b2everyrai-lh.akamaihd.net/i/raipremium_1@181837/index_1200_av-b.m3u8 ''
+PAC12_LosAngeles  'Sport'
+ http://p12l-lh.akamaihd.net/i/la_delivery@425541/index_2328_av-p.m3u8 ''
+PAC12_Mountain  'Sport'
+ http://p12m-lh.akamaihd.net/i/mountain_delivery@428912/index_2328_av-p.m3u8 ''
+PAC12_Oregon  'Sport'
+ http://p12o-lh.akamaihd.net/i/oregon_delivery@103261/index_2328_av-p.m3u8 ''
+PAC12_Washington  'Sport'
+ http://p12w-lh.akamaihd.net/i/washington_delivery@426584/index_2328_av-p.m3u8 ''
+  ''
+Cadena_100  'Radio ESP'
+ http://195.55.74.212/cope/cadena100.mp3 ''
+LocaFM  'Radio ESP'
+ http://5.39.66.128:8012/live ''
+KissFMMadrid  'Radio ESP'
+ http://kissfm.kissfmradio.cires21.com/kissfm.mp3 ''
+Latino  'Radio ESP'
+ http://5.39.66.128:8012/live ''
+RockFM  'Radio ESP'
+ http://195.55.74.204/cope/rockfm-low.mp3 ''
+GozaderaFM  'Radio ESP'
+ http://server.hablocomunicaciones.com:5000/live ''
+CanalFiesta  'Radio ESP'
+ http://195.10.10.221/rtva/canalfiestaradio_master.mp3 ''
+ElixirFM  'Radio ESP'
+ http://radioserver10.profesionalhosting.com:41004/stream/1/ ''
+HitFM  'Radio ESP'
+ http://hitfm.kissfmradio.cires21.com/hitfm.mp3 ''
+Radio4G  'Radio ESP'
+ http://195.10.10.225/radio4g/radiosigloxxi.mp3 ''
+LaFresca  'Radio ESP'
+ http://stream.produccionesdale.com:8899/altacalidad ''
+80Exitos  'Radio ESP'
+ http://streaming.radionomy.com/80-EXITS ''
+KokunFM  'Radio ESP'
+ http://5.79.66.113:8000/stream/1/ ''
+RadioPlaneta  'Radio ESP'
+ http://5.79.66.113:8004/;stream/14 ''
+ActivaFM  'Radio ESP'
+ http://emisorasmusicales.es:8030/valencia.mp3 ''
+ChanqueteFM  'Radio ESP'
+ http://185.23.192.118:8008 ''
+CanalSurAndalucia  'Radio ESP'
+ http://195.55.74.208/rtva/canalsurradio_master.mp3 ''
+CanalSurFlamenco  'Radio ESP'
+ http://canalflamenco.rtva.stream.flumotion.com/rtva/canalflamenco.mp3.m3u ''
+  ''
+  ''
+Radio1  'Radio UK'
+ https://as-dash-ww-live.akamaized.net/pool_6/live/bbc_radio_one/bbc_radio_one.isml/dash/bbc_radio_one-audio=320000.m3u8 ''
+Radio2  'Radio UK'
+ https://as-dash-ww-live.akamaized.net/pool_7/live/bbc_radio_two/bbc_radio_two.isml/dash/bbc_radio_two-audio=320000.m3u8 ''
+Radio1Xtra  'Radio UK'
+ https://as-dash-ww-live.akamaized.net/pool_7/live/bbc_1xtra/bbc_1xtra.isml/dash/bbc_1xtra-audio=320000.m3u8 ''
+Radio3  'Radio UK'
+ https://as-dash-ww-live.akamaized.net/pool_7/live/bbc_radio_three/bbc_radio_three.isml/dash/bbc_radio_three-audio=320000.m3u8 ''
+Radio4  'Radio UK'
+ https://as-dash-ww-live.akamaized.net/pool_6/live/bbc_radio_fourfm/bbc_radio_fourfm.isml/dash/bbc_radio_fourfm-audio=320000.m3u8 ''
+Radio4Xtra  'Radio UK'
+ https://as-dash-ww-live.akamaized.net/pool_6/live/bbc_radio_four_extra/bbc_radio_four_extra.isml/dash/bbc_radio_four_extra-audio=320000.m3u8 ''
+Radio5Live  'Radio UK'
+ https://as-dash-ww-live.akamaized.net/pool_6/live/bbc_radio_five_live/bbc_radio_five_live.isml/dash/bbc_radio_five_live-audio=320000.m3u8 ''
+Radio6Music  'Radio UK'
+ https://as-dash-ww-live.akamaized.net/pool_6/live/bbc_6music/bbc_6music.isml/dash/bbc_6music-audio=320000.m3u8 ''
+BBCAsianNetwork  'Radio UK'
+ https://as-dash-ww-live.akamaized.net/pool_6/live/bbc_asian_network/bbc_asian_network.isml/dash/bbc_asian_network-audio=320000.m3u8 ''
+BBCWorldService  'Radio UK'
+ https://as-dash-ww-live.akamaized.net/pool_27/live/bbc_world_service/bbc_world_service.isml/dash/bbc_world_service-audio=320000.m3u8 ''
+Kiss  'Radio UK'
+ https://stream-kiss.planetradio.co.uk/kissnational.aac ''
+Heart  'Radio UK'
+ http://vis.media-ice.musicradio.com/HeartUKMP3 ''
+CapitalRadio  'Radio UK'
+ http://media-sov.musicradio.com/CapitalMP3 ''
+JazzFM  'Radio UK'
+ http://edge-ads-03-gos2.sharp-stream.com/jazzfmmobile.mp3 ''
+  ''
+  ''
