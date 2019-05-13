@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-0 group-title="TVESP",Canal_extremadura
+http://hlstv.canalextremadura.es/livetv/smil:multistream.smil/chunklist_b1596000_DVR.m3u8

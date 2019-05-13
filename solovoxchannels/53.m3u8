@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-0 group-title="TVESP",C33
+http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:c33_web/playlist.m3u8
