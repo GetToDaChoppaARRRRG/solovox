@@ -34,7 +34,7 @@ https://nova-pull2c-a3player.secure.footprint.net/nova/bitrate_4.m3u8
 https://mega-pull2a-a3player.secure.footprint.net/mega/bitrate_4.m3u8
 #EXTINF:-0 group-title="TVESP",Neox
 https://neox-pull1c-a3player.secure.footprint.net/neox/bitrate_4.m3u8
-#EXTINF:-0 group-title="TVESP",A3int
+#EXTINF:-0 tvg-id="Antena3.sp" group-title="TVESP",A3 internacional
 http://a3live-lh.akamaihd.net:80/i/antena3_1@35248/index_4_av-b.m3u8
 #EXTINF:-0 group-title="TVESP",Paramount
 http://paramount.live.flumotion.com/live/playlist.m3u8#.m3u8
