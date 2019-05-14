@@ -67,7 +67,7 @@ http://sevillafc_live-lh.akamaihd.net/i/video_0@354142/index_0700_av-p.m3u8
 #EXTINF:-0 group-title="TVESP",Flamenco
 https://593fa17dec176.streamlock.net/csflamenco/csflamenco.stream/.m3u8
 #EXTINF:-0 group-title="TVESP",Aragontv
-http://aragontv.stream.flumotion.com/aragontv/hls-live/main.m3u8
+https://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8
 #EXTINF:-0 group-title="TVESP",Telemadrid
 http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/telemadrid1/bitrate_1.m3u8
 #EXTINF:-0 tvg-id="LaOtra.es" group-title="TVESP",La otra
@@ -90,12 +90,10 @@ https://nws.nice264.com/SmilLive/getLiveIOS.m3u8?stream=NTV_livenatvmb&system=NT
 http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:tv3_web/playlist.m3u8
 #EXTINF:-0 group-title="TVESP",TV3 24
 http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:324_web/playlist.m3u8
-#EXTINF:-0 group-title="TVESP",E3
+#EXTINF:-0 group-title="TVESP",Esport3
 https://ccma-tva-es-cellnex-live-hls.secure.footprint.net/cat/ngrp:es3_web/.m3u8
 #EXTINF:-0 group-title="TVESP",C33
 http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:c33_web/playlist.m3u8
-#EXTINF:-0 group-title="TVESP",8TVValencia
-https://live-edge-gra-1.cdn.enetres.net/489DDF7FE98241D19D8970314BC9D3EF021/live-1200/index.m3u8
 #EXTINF:-0 group-title="TVESP",Galicia
 http://europa-crtvg.flumotion.com/crtvg/europa/chunks.m3u8
 #EXTINF:-0 group-title="TVESP",Eitb
