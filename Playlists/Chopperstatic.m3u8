@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-0 group-title="TVESP",Andalucia
+#EXTINF:-0 group-title="TVESP",Canal Sur
 http://canalsur-pair302-live.hls.adaptive.level3.net/egress/bhandler/sandetel/rtva/.m3u8
 #EXTINF:-0 group-title="TVESP",La1
 http://hlsliveamdgl7-lh.akamaihd.net/i/hlslive_1@583043/index_2800_av-b.m3u8?sd=10&rebase=on
@@ -12,9 +12,9 @@ https://livestartover.atresmedia.com/antena3/bitrate_4.m3u8
 https://livehlsdai-i.akamaihd.net/hls/live/571643/cuatro/bitrate_4.m3u8
 #EXTINF:-0 group-title="TVESP",Telecinco
 https://livehlsdai-i.akamaihd.net/hls/live/571640/telecinco/bitrate_4.m3u8
-#EXTINF:-0 group-title="TVESP",La_Sexta
+#EXTINF:-0 group-title="TVESP",La Sexta
 https://livestartover.atresmedia.com/lasexta/bitrate_4.m3u8
-#EXTINF:-0 group-title="TVESP",Antena3 series
+#EXTINF:-0 tvg-id="A3seriesHD.es" group-title="TVESP",Antena3 series
 https://livestartover.atresmedia.com/a3series/bitrate_4.m3u8
 #EXTINF:-0 group-title="TVESP",DKiss
 https://kissfm-cires21-video.secure.footprint.net/dkiss/bitrate_4.m3u8
