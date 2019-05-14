@@ -58,10 +58,10 @@ https://live-edge-sxb-1.cdn.enetres.net/489DDF7FE98241D19D8970314BC9D3EF021/live
 http://teledifusion.tv:1935/levantetvlive/mp4:levantetvlive/playlist.m3u8
 #EXTINF:-0 group-title="TVESP",Hittv
 http://kissfm-cires21-video.secure.footprint.net/hittv/bitrate_4.m3u8
-#EXTINF:-0 group-title="TVESP",Realmadrid
+#EXTINF:-0 tvg-id="RealMadridTV.sp" group-title="TVESP",Real Madrid TV
 http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/index_3_av-b.m3u8
-#EXTINF:-0 group-title="TVESP",Rbetis
-http://rbetis-hls.flumotion.com/rbetis/live/playlist.m3u8
+#EXTINF:-0 tvg-id="BetisTV.es" group-title="TVESP",Betis TV
+https://cdnlive.shooowit.net/rbetislive/smil:television.smil/playlist.m3u8
 #EXTINF:-0 group-title="TVESP",Sevillafc
 http://sevillafc_live-lh.akamaihd.net/i/video_0@354142/index_0700_av-p.m3u8
 #EXTINF:-0 group-title="TVESP",Flamenco
