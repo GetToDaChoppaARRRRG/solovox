@@ -1,3 +1,3 @@
 #EXTM3U
-#EXTINF:-0 group-title="Sport",PAC12_Mountain
-http://p12m-lh.akamaihd.net/i/mountain_delivery@428912/index_2328_av-p.m3u8
+#EXTINF:-0 group-title="Radio ESP",RadioPlaneta
+http://5.79.66.113:8004/;stream/14

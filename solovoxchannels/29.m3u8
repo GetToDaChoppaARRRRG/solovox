@@ -1,3 +1,3 @@
 #EXTM3U
-#EXTINF:-0 group-title="TVESP",TeleLevante
-http://teledifusion.tv:1935/levantetvlive/mp4:levantetvlive/playlist.m3u8
+#EXTINF:-0 group-title="TVESP",El Toro TV
+https://live-edge-gra-1.cdn.enetres.net/16011939C62D44ED91350508FB25828B021/live-1000/index.m3u8

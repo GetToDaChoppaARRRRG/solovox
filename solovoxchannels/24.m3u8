@@ -1,3 +1,3 @@
 #EXTM3U
-#EXTINF:-0 group-title="TVESP",A3int
-http://a3live-lh.akamaihd.net:80/i/antena3_1@35248/index_4_av-b.m3u8
+#EXTINF:-0 group-title="TVESP",Euronews
+https://euronews-es-p10-cdn.hexaglobe.net/581e0f8f80c10503c879797e8e51d993/5cdb1b1b/euronews/euronews-euronews-website-web-responsive-2/ewnsabrespri_spa.smil/ewnsabrespri_spa_720p.m3u8

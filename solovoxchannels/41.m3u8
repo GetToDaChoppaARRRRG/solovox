@@ -1,3 +1,3 @@
 #EXTM3U
-#EXTINF:-0 group-title="TVESP",Madridlaotra
-http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/laotra1/bitrate_1.m3u8
+#EXTINF:-0 group-title="TVESP",Canal Extremadura
+http://hlstv.canalextremadura.es/livetv/smil:multistream.smil/chunklist_b1596000_DVR.m3u8
