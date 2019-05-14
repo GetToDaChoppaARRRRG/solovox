@@ -102,6 +102,10 @@ http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:c33_web/playli
 http://europa-crtvg.flumotion.com/playlist.m3u8
 #EXTINF:-0 group-title="TVESP",Eitb
 http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/index_0748_av-p.m3u8
+#EXTINF:-0 group-title="TVESP",Red TV Spain
+http://178.132.6.97/RedTVSpain1/playlist.m3u8
+#EXTINF:-0 group-title="TVESP",Fibwi Live
+http://178.132.6.97/fibwiLIVE1/playlist.m3u8
 
 #EXTINF:-0 group-title="Radio ESP",Cadena_100
 http://195.55.74.212/cope/cadena100.mp3
