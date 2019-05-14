@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-0 group-title="TVESP",Andalucia
-http://canalsur-live.hls.adaptive.level3.net/hls-live/canalsur_live-rtva/_definst_/live/stream3.m3u8
+http://canalsur-pair302-live.hls.adaptive.level3.net/egress/bhandler/sandetel/rtva/.m3u8
 #EXTINF:-0 group-title="TVESP",La1
 http://hlsliveamdgl7-lh.akamaihd.net/i/hlslive_1@583043/index_2800_av-b.m3u8?sd=10&rebase=on
 #EXTINF:-0 group-title="TVESP",La2
