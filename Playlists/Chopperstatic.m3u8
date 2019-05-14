@@ -99,44 +99,6 @@ http://europa-crtvg.flumotion.com/crtvg/europa/chunks.m3u8
 #EXTINF:-0 group-title="TVESP",Eitb
 http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/index_0748_av-p.m3u8
 
-#EXTINF:-0 group-title="TVESP", Marca1
-https://accesorioscoche.club/t1/t1.m3u8
-#EXTINF:-0 group-title="TVESP", Marca2
-https://accesorioscoche.club/t2/t2.m3u8
-#EXTINF:-0 group-title="TVESP", Marca3
-https://accesorioscoche.club/t3/t3.m3u8
-
-#EXTINF:-0 group-title="ITA",RaiPremium
-http://b2everyrai-lh.akamaihd.net/i/raipremium_1@181837/index_1800_av-b.m3u8
-#EXTINF:-0 group-title="ITA",RaiMovie
-http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/index_1800_av-b.m3u8
-#EXTINF:-0 group-title="ITA",RaiStoria
-http://everyrai-lh.akamaihd.net/i/raistoria_1@308058/index_900_av-b.m3u8
-#EXTINF:-0 group-title="ITA",RaiScuola
-http://everyrai-lh.akamaihd.net/i/raiscuola_1@177965/index_900_av-b.m3u8
-#EXTINF:-0 group-title="ITA",Rai5
-http://b2everyrai-lh.akamaihd.net/i/rai5_1@182695/index_1800_av-b.m3u8
-#EXTINF:-0 group-title="ITA",RaiGulp
-http://b2everyrai-lh.akamaihd.net/i/raigulp_1@66350/index_1800_av-p.m3u8
-#EXTINF:-0 group-title="ITA",RaiYoYo
-http://b2everyrai-lh.akamaihd.net:80/i/raiyoyo_1@191405/index_1800_av-p.m3u8
-
-
-#EXTINF:-0 group-title="Sport",PAC12_Networks
-http://p12n-lh.akamaihd.net/i/network_delivery@428818/index_2328_av-p.m3u8
-#EXTINF:-0 group-title="Sport",PAC12_Arizona
-http://p12a-lh.akamaihd.net/i/arizona_delivery@199730/index_2328_av-p.m3u8
-#EXTINF:-0 group-title="Sport",PAC12_BayArea
-http://b2everyrai-lh.akamaihd.net/i/raipremium_1@181837/index_1200_av-b.m3u8
-#EXTINF:-0 group-title="Sport",PAC12_LosAngeles
-http://p12l-lh.akamaihd.net/i/la_delivery@425541/index_2328_av-p.m3u8
-#EXTINF:-0 group-title="Sport",PAC12_Mountain
-http://p12m-lh.akamaihd.net/i/mountain_delivery@428912/index_2328_av-p.m3u8
-#EXTINF:-0 group-title="Sport",PAC12_Oregon
-http://p12o-lh.akamaihd.net/i/oregon_delivery@103261/index_2328_av-p.m3u8
-#EXTINF:-0 group-title="Sport",PAC12_Washington
-http://p12w-lh.akamaihd.net/i/washington_delivery@426584/index_2328_av-p.m3u8
-
 #EXTINF:-0 group-title="Radio ESP",Cadena_100
 http://195.55.74.212/cope/cadena100.mp3
 #EXTINF:-0 group-title="Radio ESP",LocaFM
