@@ -84,11 +84,11 @@ http://hlstv.canalextremadura.es/livetv/smil:multistream.smil/chunklist_b1596000
 http://teledifusion.tv:1935/cordoba/cordobalive/.m3u8
 #EXTINF:-0 tvg-id="IB3.es" group-title="TVESP",IB3
 http://ibsatiphone.ib3tv.com/iphoneliveIB3/IB3/bitrate_4.m3u8
-#EXTINF:-0 group-title="TVESP",Navarra
-http://nws.nice264.com/SmilLive/getLiveIOS.smil?stream=NTV_livenatvmb&system=NTV&protocol=http_cupertino/playlist.m3u8
+#EXTINF:-0 group-title="TVESP",Navarra TV
+https://nws.nice264.com/SmilLive/getLiveIOS.m3u8?stream=NTV_livenatvmb&system=NTV&protocol=http_cupertino/playlist.m3u8
 #EXTINF:-0 group-title="TVESP",TV3
 http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:tv3_web/playlist.m3u8
-#EXTINF:-0 group-title="TVESP",TV324
+#EXTINF:-0 group-title="TVESP",TV3 24
 http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:324_web/playlist.m3u8
 #EXTINF:-0 group-title="TVESP",E3
 https://ccma-tva-es-cellnex-live-hls.secure.footprint.net/cat/ngrp:es3_web/.m3u8
