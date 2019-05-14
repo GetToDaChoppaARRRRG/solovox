@@ -68,14 +68,10 @@ http://sevillafc_live-lh.akamaihd.net/i/video_0@354142/index_0700_av-p.m3u8
 https://593fa17dec176.streamlock.net/csflamenco/csflamenco.stream/.m3u8
 #EXTINF:-0 group-title="TVESP",Aragontv
 http://aragontv.stream.flumotion.com/aragontv/hls-live/main.m3u8
-#EXTINF:-0 group-title="TVESP",Mediterraneo8
-http://streaming-fr02.enetres.net/489DDF7FE98241D19D8970314BC9D3EF021/smil:live.smil/chunklist_w1025314085_b850000.m3u8
-#EXTINF:-0 group-title="TVESP",RiberaVLC
-http://orion.comelson.es/ribera/livestream/chunklist_w476320974.m3u8
 #EXTINF:-0 group-title="TVESP",Telemadrid
 http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/telemadrid1/bitrate_1.m3u8
-#EXTINF:-0 group-title="TVESP",Madridlaotra
-http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/laotra1/bitrate_1.m3u8
+#EXTINF:-0 tvg-id="LaOtra.es" group-title="TVESP",La otra
+http://live-laotra.cellnextelecom.net/laotra/smil:laotra/index.m3u8
 #EXTINF:-0 group-title="TVESP",Murcia
 http://rtvmurcia_01-lh.akamaihd.net/i/rtvmurcia_1_0@507973/index_0_av-p.m3u8
 #EXTINF:-0 group-title="TVESP",Canarias
