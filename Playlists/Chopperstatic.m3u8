@@ -112,6 +112,8 @@ http://178.132.6.97/PrideTV1/playlist.m3u8
 http://178.132.6.97/11Madrid/index.m3u8
 #EXTINF:-0 group-title="TVESP",101 TV
 https://secure.todostreaming.es/live/101tv-web101tv.m3u8
+#EXTINF:-0 group-title="TVESP",DH TV
+https://secure2.todostreaming.es/live/tvstream-DHnew.m3u8
 
 
 #EXTINF:-0 group-title="Radio ESP",Cadena_100
