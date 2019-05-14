@@ -96,8 +96,8 @@ http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:324_web/playli
 https://ccma-tva-es-cellnex-live-hls.secure.footprint.net/cat/ngrp:es3_web/.m3u8
 #EXTINF:-0 group-title="TVESP",C33
 http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:c33_web/playlist.m3u8
-#EXTINF:-0 group-title="TVESP",Galicia
-http://europa-crtvg.flumotion.com/crtvg/europa/chunks.m3u8
+#EXTINF:-0 group-title="TVESP",Galicia TV
+http://europa-crtvg.flumotion.com/playlist.m3u8
 #EXTINF:-0 group-title="TVESP",Eitb
 http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/index_0748_av-p.m3u8
 
