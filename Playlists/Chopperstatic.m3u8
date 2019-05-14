@@ -108,6 +108,8 @@ http://178.132.6.97/RedTVSpain1/playlist.m3u8
 http://178.132.6.97/fibwiLIVE1/playlist.m3u8
 #EXTINF:-0 group-title="TVESP",Pride TV
 http://178.132.6.97/PrideTV1/playlist.m3u8
+#EXTINF:-0 group-title="TVESP",11 TV
+http://178.132.6.97/11Madrid/index.m3u8
 
 
 #EXTINF:-0 group-title="Radio ESP",Cadena_100
