@@ -116,7 +116,8 @@ http://178.132.6.97/11Madrid/index.m3u8
 https://secure.todostreaming.es/live/101tv-web101tv.m3u8
 #EXTINF:-0 group-title="TVESP",DH TV
 https://secure2.todostreaming.es/live/tvstream-DHnew.m3u8
-
+#EXTINF:-0 tvg-logo="https://ocio.lne.es/img_contenido/noticias/2018/12/717579/la_voz_canal_24_horas.jpg" group-title="TVESP",La Voz 24h
+https://pull12.atresmedia.com/lavoz/master.m3u8
 
 #EXTINF:-0 group-title="Radio ESP",Cadena_100
 http://195.55.74.212/cope/cadena100.mp3
@@ -154,7 +155,6 @@ http://185.23.192.118:8008
 http://195.55.74.208/rtva/canalsurradio_master.mp3
 #EXTINF:-0 group-title="Radio ESP",CanalSurFlamenco
 http://canalflamenco.rtva.stream.flumotion.com/rtva/canalflamenco.mp3.m3u
-
 
 #EXTINF:-0 group-title="Radio UK",Radio1
 https://as-dash-ww-live.akamaized.net/pool_6/live/bbc_radio_one/bbc_radio_one.isml/dash/bbc_radio_one-audio=320000.m3u8
