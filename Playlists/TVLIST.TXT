@@ -23,67 +23,68 @@ Canal Sur Cocina https://raw.githubusercontent.com/GetToDaChoppaARRRRG/solovox/m
 Teledeporte https://raw.githubusercontent.com/GetToDaChoppaARRRRG/solovox/master/solovoxchannels/23.m3u8 $TVESP$
 Euronews https://raw.githubusercontent.com/GetToDaChoppaARRRRG/solovox/master/solovoxchannels/24.m3u8 $TVESP$
 Hispantv https://raw.githubusercontent.com/GetToDaChoppaARRRRG/solovox/master/solovoxchannels/25.m3u8 $HispanTV.es$
-Tele7 https://raw.githubusercontent.com/GetToDaChoppaARRRRG/solovox/master/solovoxchannels/26.m3u8 $TVESP$
-La Ocho https://raw.githubusercontent.com/GetToDaChoppaARRRRG/solovox/master/solovoxchannels/27.m3u8 $8tv.es$
-TeleLevante https://raw.githubusercontent.com/GetToDaChoppaARRRRG/solovox/master/solovoxchannels/28.m3u8 $TVESP$
-El Toro TV https://raw.githubusercontent.com/GetToDaChoppaARRRRG/solovox/master/solovoxchannels/29.m3u8 $TVESP$
-Hittv https://raw.githubusercontent.com/GetToDaChoppaARRRRG/solovox/master/solovoxchannels/30.m3u8 $TVESP$
-Real Madrid TV https://raw.githubusercontent.com/GetToDaChoppaARRRRG/solovox/master/solovoxchannels/31.m3u8 $RealMadridTV.sp$
-Betis TV https://raw.githubusercontent.com/GetToDaChoppaARRRRG/solovox/master/solovoxchannels/32.m3u8 $BetisTV.es$
-Sevillafc https://raw.githubusercontent.com/GetToDaChoppaARRRRG/solovox/master/solovoxchannels/33.m3u8 $TVESP$
-Flamenco https://raw.githubusercontent.com/GetToDaChoppaARRRRG/solovox/master/solovoxchannels/34.m3u8 $TVESP$
-Aragontv https://raw.githubusercontent.com/GetToDaChoppaARRRRG/solovox/master/solovoxchannels/35.m3u8 $TVESP$
-Telemadrid https://raw.githubusercontent.com/GetToDaChoppaARRRRG/solovox/master/solovoxchannels/36.m3u8 $TVESP$
-La otra https://raw.githubusercontent.com/GetToDaChoppaARRRRG/solovox/master/solovoxchannels/37.m3u8 $LaOtra.es$
-7 Murcia https://raw.githubusercontent.com/GetToDaChoppaARRRRG/solovox/master/solovoxchannels/38.m3u8 $7tv.es$
-Canarias https://raw.githubusercontent.com/GetToDaChoppaARRRRG/solovox/master/solovoxchannels/39.m3u8 $TVESP$
-Castillalamancha https://raw.githubusercontent.com/GetToDaChoppaARRRRG/solovox/master/solovoxchannels/40.m3u8 $TVESP$
-Canal Extremadura https://raw.githubusercontent.com/GetToDaChoppaARRRRG/solovox/master/solovoxchannels/41.m3u8 $TVESP$
-Televisión Municipal de Córdoba https://raw.githubusercontent.com/GetToDaChoppaARRRRG/solovox/master/solovoxchannels/42.m3u8 $TVESP$
-IB3 https://raw.githubusercontent.com/GetToDaChoppaARRRRG/solovox/master/solovoxchannels/43.m3u8 $IB3.es$
-Beteve https://raw.githubusercontent.com/GetToDaChoppaARRRRG/solovox/master/solovoxchannels/44.m3u8 $IB3.es$
-Navarra TV https://raw.githubusercontent.com/GetToDaChoppaARRRRG/solovox/master/solovoxchannels/45.m3u8 $TVESP$
-TV3 https://raw.githubusercontent.com/GetToDaChoppaARRRRG/solovox/master/solovoxchannels/46.m3u8 $TVESP$
-TV3 24 https://raw.githubusercontent.com/GetToDaChoppaARRRRG/solovox/master/solovoxchannels/47.m3u8 $TVESP$
-Esport3 https://raw.githubusercontent.com/GetToDaChoppaARRRRG/solovox/master/solovoxchannels/48.m3u8 $TVESP$
-C33 https://raw.githubusercontent.com/GetToDaChoppaARRRRG/solovox/master/solovoxchannels/49.m3u8 $TVESP$
-Galicia TV https://raw.githubusercontent.com/GetToDaChoppaARRRRG/solovox/master/solovoxchannels/50.m3u8 $TVESP$
-Eitb https://raw.githubusercontent.com/GetToDaChoppaARRRRG/solovox/master/solovoxchannels/51.m3u8 $TVESP$
-Red TV Spain https://raw.githubusercontent.com/GetToDaChoppaARRRRG/solovox/master/solovoxchannels/52.m3u8 $TVESP$
-Fibwi Live https://raw.githubusercontent.com/GetToDaChoppaARRRRG/solovox/master/solovoxchannels/53.m3u8 $TVESP$
-Pride TV https://raw.githubusercontent.com/GetToDaChoppaARRRRG/solovox/master/solovoxchannels/54.m3u8 $TVESP$
-11 TV https://raw.githubusercontent.com/GetToDaChoppaARRRRG/solovox/master/solovoxchannels/55.m3u8 $TVESP$
-101 TV https://raw.githubusercontent.com/GetToDaChoppaARRRRG/solovox/master/solovoxchannels/56.m3u8 $TVESP$
-DH TV https://raw.githubusercontent.com/GetToDaChoppaARRRRG/solovox/master/solovoxchannels/57.m3u8 $TVESP$
-Cadena_100 https://raw.githubusercontent.com/GetToDaChoppaARRRRG/solovox/master/solovoxchannels/58.m3u8 $Radio ESP$
-LocaFM https://raw.githubusercontent.com/GetToDaChoppaARRRRG/solovox/master/solovoxchannels/59.m3u8 $Radio ESP$
-KissFMMadrid https://raw.githubusercontent.com/GetToDaChoppaARRRRG/solovox/master/solovoxchannels/60.m3u8 $Radio ESP$
-Latino https://raw.githubusercontent.com/GetToDaChoppaARRRRG/solovox/master/solovoxchannels/61.m3u8 $Radio ESP$
-RockFM https://raw.githubusercontent.com/GetToDaChoppaARRRRG/solovox/master/solovoxchannels/62.m3u8 $Radio ESP$
-GozaderaFM https://raw.githubusercontent.com/GetToDaChoppaARRRRG/solovox/master/solovoxchannels/63.m3u8 $Radio ESP$
-CanalFiesta https://raw.githubusercontent.com/GetToDaChoppaARRRRG/solovox/master/solovoxchannels/64.m3u8 $Radio ESP$
-ElixirFM https://raw.githubusercontent.com/GetToDaChoppaARRRRG/solovox/master/solovoxchannels/65.m3u8 $Radio ESP$
-HitFM https://raw.githubusercontent.com/GetToDaChoppaARRRRG/solovox/master/solovoxchannels/66.m3u8 $Radio ESP$
-Radio4G https://raw.githubusercontent.com/GetToDaChoppaARRRRG/solovox/master/solovoxchannels/67.m3u8 $Radio ESP$
-LaFresca https://raw.githubusercontent.com/GetToDaChoppaARRRRG/solovox/master/solovoxchannels/68.m3u8 $Radio ESP$
-80Exitos https://raw.githubusercontent.com/GetToDaChoppaARRRRG/solovox/master/solovoxchannels/69.m3u8 $Radio ESP$
-KokunFM https://raw.githubusercontent.com/GetToDaChoppaARRRRG/solovox/master/solovoxchannels/70.m3u8 $Radio ESP$
-RadioPlaneta https://raw.githubusercontent.com/GetToDaChoppaARRRRG/solovox/master/solovoxchannels/71.m3u8 $Radio ESP$
-ActivaFM https://raw.githubusercontent.com/GetToDaChoppaARRRRG/solovox/master/solovoxchannels/72.m3u8 $Radio ESP$
-ChanqueteFM https://raw.githubusercontent.com/GetToDaChoppaARRRRG/solovox/master/solovoxchannels/73.m3u8 $Radio ESP$
-CanalSurAndalucia https://raw.githubusercontent.com/GetToDaChoppaARRRRG/solovox/master/solovoxchannels/74.m3u8 $Radio ESP$
-CanalSurFlamenco https://raw.githubusercontent.com/GetToDaChoppaARRRRG/solovox/master/solovoxchannels/75.m3u8 $Radio ESP$
-Radio1 https://raw.githubusercontent.com/GetToDaChoppaARRRRG/solovox/master/solovoxchannels/76.m3u8 $Radio UK$
-Radio2 https://raw.githubusercontent.com/GetToDaChoppaARRRRG/solovox/master/solovoxchannels/77.m3u8 $Radio UK$
-Radio1Xtra https://raw.githubusercontent.com/GetToDaChoppaARRRRG/solovox/master/solovoxchannels/78.m3u8 $Radio UK$
-Radio3 https://raw.githubusercontent.com/GetToDaChoppaARRRRG/solovox/master/solovoxchannels/79.m3u8 $Radio UK$
-Radio4 https://raw.githubusercontent.com/GetToDaChoppaARRRRG/solovox/master/solovoxchannels/80.m3u8 $Radio UK$
-Radio4Xtra https://raw.githubusercontent.com/GetToDaChoppaARRRRG/solovox/master/solovoxchannels/81.m3u8 $Radio UK$
-Radio5Live https://raw.githubusercontent.com/GetToDaChoppaARRRRG/solovox/master/solovoxchannels/82.m3u8 $Radio UK$
-Radio6Music https://raw.githubusercontent.com/GetToDaChoppaARRRRG/solovox/master/solovoxchannels/83.m3u8 $Radio UK$
-BBCAsianNetwork https://raw.githubusercontent.com/GetToDaChoppaARRRRG/solovox/master/solovoxchannels/84.m3u8 $Radio UK$
-BBCWorldService https://raw.githubusercontent.com/GetToDaChoppaARRRRG/solovox/master/solovoxchannels/85.m3u8 $Radio UK$
-Kiss https://raw.githubusercontent.com/GetToDaChoppaARRRRG/solovox/master/solovoxchannels/86.m3u8 $Radio UK$
-Heart https://raw.githubusercontent.com/GetToDaChoppaARRRRG/solovox/master/solovoxchannels/87.m3u8 $Radio UK$
-CapitalRadio https://raw.githubusercontent.com/GetToDaChoppaARRRRG/solovox/master/solovoxchannels/88.m3u8 $Radio UK$
-JazzFM https://raw.githubusercontent.com/GetToDaChoppaARRRRG/solovox/master/solovoxchannels/89.m3u8 $Radio UK$
+A Punt https://raw.githubusercontent.com/GetToDaChoppaARRRRG/solovox/master/solovoxchannels/26.m3u8 $TVESP$
+Tele7 https://raw.githubusercontent.com/GetToDaChoppaARRRRG/solovox/master/solovoxchannels/27.m3u8 $TVESP$
+La Ocho https://raw.githubusercontent.com/GetToDaChoppaARRRRG/solovox/master/solovoxchannels/28.m3u8 $8tv.es$
+TeleLevante https://raw.githubusercontent.com/GetToDaChoppaARRRRG/solovox/master/solovoxchannels/29.m3u8 $TVESP$
+El Toro TV https://raw.githubusercontent.com/GetToDaChoppaARRRRG/solovox/master/solovoxchannels/30.m3u8 $TVESP$
+Hittv https://raw.githubusercontent.com/GetToDaChoppaARRRRG/solovox/master/solovoxchannels/31.m3u8 $TVESP$
+Real Madrid TV https://raw.githubusercontent.com/GetToDaChoppaARRRRG/solovox/master/solovoxchannels/32.m3u8 $RealMadridTV.sp$
+Betis TV https://raw.githubusercontent.com/GetToDaChoppaARRRRG/solovox/master/solovoxchannels/33.m3u8 $BetisTV.es$
+Sevillafc https://raw.githubusercontent.com/GetToDaChoppaARRRRG/solovox/master/solovoxchannels/34.m3u8 $TVESP$
+Flamenco https://raw.githubusercontent.com/GetToDaChoppaARRRRG/solovox/master/solovoxchannels/35.m3u8 $TVESP$
+Aragontv https://raw.githubusercontent.com/GetToDaChoppaARRRRG/solovox/master/solovoxchannels/36.m3u8 $TVESP$
+Telemadrid https://raw.githubusercontent.com/GetToDaChoppaARRRRG/solovox/master/solovoxchannels/37.m3u8 $TVESP$
+La otra https://raw.githubusercontent.com/GetToDaChoppaARRRRG/solovox/master/solovoxchannels/38.m3u8 $LaOtra.es$
+7 Murcia https://raw.githubusercontent.com/GetToDaChoppaARRRRG/solovox/master/solovoxchannels/39.m3u8 $7tv.es$
+Canarias https://raw.githubusercontent.com/GetToDaChoppaARRRRG/solovox/master/solovoxchannels/40.m3u8 $TVESP$
+Castillalamancha https://raw.githubusercontent.com/GetToDaChoppaARRRRG/solovox/master/solovoxchannels/41.m3u8 $TVESP$
+Canal Extremadura https://raw.githubusercontent.com/GetToDaChoppaARRRRG/solovox/master/solovoxchannels/42.m3u8 $TVESP$
+Televisión Municipal de Córdoba https://raw.githubusercontent.com/GetToDaChoppaARRRRG/solovox/master/solovoxchannels/43.m3u8 $TVESP$
+IB3 https://raw.githubusercontent.com/GetToDaChoppaARRRRG/solovox/master/solovoxchannels/44.m3u8 $IB3.es$
+Beteve https://raw.githubusercontent.com/GetToDaChoppaARRRRG/solovox/master/solovoxchannels/45.m3u8 $IB3.es$
+Navarra TV https://raw.githubusercontent.com/GetToDaChoppaARRRRG/solovox/master/solovoxchannels/46.m3u8 $TVESP$
+TV3 https://raw.githubusercontent.com/GetToDaChoppaARRRRG/solovox/master/solovoxchannels/47.m3u8 $TVESP$
+TV3 24 https://raw.githubusercontent.com/GetToDaChoppaARRRRG/solovox/master/solovoxchannels/48.m3u8 $TVESP$
+Esport3 https://raw.githubusercontent.com/GetToDaChoppaARRRRG/solovox/master/solovoxchannels/49.m3u8 $TVESP$
+C33 https://raw.githubusercontent.com/GetToDaChoppaARRRRG/solovox/master/solovoxchannels/50.m3u8 $TVESP$
+Galicia TV https://raw.githubusercontent.com/GetToDaChoppaARRRRG/solovox/master/solovoxchannels/51.m3u8 $TVESP$
+Eitb https://raw.githubusercontent.com/GetToDaChoppaARRRRG/solovox/master/solovoxchannels/52.m3u8 $TVESP$
+Red TV Spain https://raw.githubusercontent.com/GetToDaChoppaARRRRG/solovox/master/solovoxchannels/53.m3u8 $TVESP$
+Fibwi Live https://raw.githubusercontent.com/GetToDaChoppaARRRRG/solovox/master/solovoxchannels/54.m3u8 $TVESP$
+Pride TV https://raw.githubusercontent.com/GetToDaChoppaARRRRG/solovox/master/solovoxchannels/55.m3u8 $TVESP$
+11 TV https://raw.githubusercontent.com/GetToDaChoppaARRRRG/solovox/master/solovoxchannels/56.m3u8 $TVESP$
+101 TV https://raw.githubusercontent.com/GetToDaChoppaARRRRG/solovox/master/solovoxchannels/57.m3u8 $TVESP$
+DH TV https://raw.githubusercontent.com/GetToDaChoppaARRRRG/solovox/master/solovoxchannels/58.m3u8 $TVESP$
+Cadena_100 https://raw.githubusercontent.com/GetToDaChoppaARRRRG/solovox/master/solovoxchannels/59.m3u8 $Radio ESP$
+LocaFM https://raw.githubusercontent.com/GetToDaChoppaARRRRG/solovox/master/solovoxchannels/60.m3u8 $Radio ESP$
+KissFMMadrid https://raw.githubusercontent.com/GetToDaChoppaARRRRG/solovox/master/solovoxchannels/61.m3u8 $Radio ESP$
+Latino https://raw.githubusercontent.com/GetToDaChoppaARRRRG/solovox/master/solovoxchannels/62.m3u8 $Radio ESP$
+RockFM https://raw.githubusercontent.com/GetToDaChoppaARRRRG/solovox/master/solovoxchannels/63.m3u8 $Radio ESP$
+GozaderaFM https://raw.githubusercontent.com/GetToDaChoppaARRRRG/solovox/master/solovoxchannels/64.m3u8 $Radio ESP$
+CanalFiesta https://raw.githubusercontent.com/GetToDaChoppaARRRRG/solovox/master/solovoxchannels/65.m3u8 $Radio ESP$
+ElixirFM https://raw.githubusercontent.com/GetToDaChoppaARRRRG/solovox/master/solovoxchannels/66.m3u8 $Radio ESP$
+HitFM https://raw.githubusercontent.com/GetToDaChoppaARRRRG/solovox/master/solovoxchannels/67.m3u8 $Radio ESP$
+Radio4G https://raw.githubusercontent.com/GetToDaChoppaARRRRG/solovox/master/solovoxchannels/68.m3u8 $Radio ESP$
+LaFresca https://raw.githubusercontent.com/GetToDaChoppaARRRRG/solovox/master/solovoxchannels/69.m3u8 $Radio ESP$
+80Exitos https://raw.githubusercontent.com/GetToDaChoppaARRRRG/solovox/master/solovoxchannels/70.m3u8 $Radio ESP$
+KokunFM https://raw.githubusercontent.com/GetToDaChoppaARRRRG/solovox/master/solovoxchannels/71.m3u8 $Radio ESP$
+RadioPlaneta https://raw.githubusercontent.com/GetToDaChoppaARRRRG/solovox/master/solovoxchannels/72.m3u8 $Radio ESP$
+ActivaFM https://raw.githubusercontent.com/GetToDaChoppaARRRRG/solovox/master/solovoxchannels/73.m3u8 $Radio ESP$
+ChanqueteFM https://raw.githubusercontent.com/GetToDaChoppaARRRRG/solovox/master/solovoxchannels/74.m3u8 $Radio ESP$
+CanalSurAndalucia https://raw.githubusercontent.com/GetToDaChoppaARRRRG/solovox/master/solovoxchannels/75.m3u8 $Radio ESP$
+CanalSurFlamenco https://raw.githubusercontent.com/GetToDaChoppaARRRRG/solovox/master/solovoxchannels/76.m3u8 $Radio ESP$
+Radio1 https://raw.githubusercontent.com/GetToDaChoppaARRRRG/solovox/master/solovoxchannels/77.m3u8 $Radio UK$
+Radio2 https://raw.githubusercontent.com/GetToDaChoppaARRRRG/solovox/master/solovoxchannels/78.m3u8 $Radio UK$
+Radio1Xtra https://raw.githubusercontent.com/GetToDaChoppaARRRRG/solovox/master/solovoxchannels/79.m3u8 $Radio UK$
+Radio3 https://raw.githubusercontent.com/GetToDaChoppaARRRRG/solovox/master/solovoxchannels/80.m3u8 $Radio UK$
+Radio4 https://raw.githubusercontent.com/GetToDaChoppaARRRRG/solovox/master/solovoxchannels/81.m3u8 $Radio UK$
+Radio4Xtra https://raw.githubusercontent.com/GetToDaChoppaARRRRG/solovox/master/solovoxchannels/82.m3u8 $Radio UK$
+Radio5Live https://raw.githubusercontent.com/GetToDaChoppaARRRRG/solovox/master/solovoxchannels/83.m3u8 $Radio UK$
+Radio6Music https://raw.githubusercontent.com/GetToDaChoppaARRRRG/solovox/master/solovoxchannels/84.m3u8 $Radio UK$
+BBCAsianNetwork https://raw.githubusercontent.com/GetToDaChoppaARRRRG/solovox/master/solovoxchannels/85.m3u8 $Radio UK$
+BBCWorldService https://raw.githubusercontent.com/GetToDaChoppaARRRRG/solovox/master/solovoxchannels/86.m3u8 $Radio UK$
+Kiss https://raw.githubusercontent.com/GetToDaChoppaARRRRG/solovox/master/solovoxchannels/87.m3u8 $Radio UK$
+Heart https://raw.githubusercontent.com/GetToDaChoppaARRRRG/solovox/master/solovoxchannels/88.m3u8 $Radio UK$
+CapitalRadio https://raw.githubusercontent.com/GetToDaChoppaARRRRG/solovox/master/solovoxchannels/89.m3u8 $Radio UK$
+JazzFM https://raw.githubusercontent.com/GetToDaChoppaARRRRG/solovox/master/solovoxchannels/90.m3u8 $Radio UK$

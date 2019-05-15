@@ -1,3 +1,3 @@
 #EXTM3U
-#EXTINF:-0 group-title="Radio ESP",ElixirFM
-http://radioserver10.profesionalhosting.com:41004/stream/1/
+#EXTINF:-0 group-title="Radio ESP",CanalFiesta
+http://195.10.10.221/rtva/canalfiestaradio_master.mp3

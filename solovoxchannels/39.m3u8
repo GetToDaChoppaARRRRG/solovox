@@ -1,3 +1,3 @@
 #EXTM3U
-#EXTINF:-0 group-title="TVESP",Canarias
-http://streaming2.mad.idec.net/rtvcnet/rtvcnet.drb.smil/Playlist.m3u8
+#EXTINF:-0 group-title="7tv.es",7 Murcia
+http://rtvmurcia_01-lh.akamaihd.net/i/rtvmurcia_1_0@507973/master.m3u8
