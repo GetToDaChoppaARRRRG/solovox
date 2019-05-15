@@ -56,6 +56,7 @@ Pride TV http://178.132.6.97/PrideTV1/playlist.m3u8 $TVESP$
 11 TV http://178.132.6.97/11Madrid/index.m3u8 $TVESP$
 101 TV https://secure.todostreaming.es/live/101tv-web101tv.m3u8 $TVESP$
 DH TV https://secure2.todostreaming.es/live/tvstream-DHnew.m3u8 $TVESP$
+La Voz 24h https://pull12.atresmedia.com/lavoz/master.m3u8 $https://ocio.lne.es/img_contenido/noticias/2018/12/717579/la_voz_canal_24_horas.jpg$
 Cadena_100 http://195.55.74.212/cope/cadena100.mp3 $Radio ESP$
 LocaFM http://5.39.66.128:8012/live $Radio ESP$
 KissFMMadrid http://kissfm.kissfmradio.cires21.com/kissfm.mp3 $Radio ESP$
