@@ -1,3 +1,3 @@
 #EXTM3U
-#EXTINF:-0 group-title="group-title=Radio",BBCWorldService
+#EXTINF:-0 group-title="group-title="Radio",BBCWorldService
 https://as-dash-ww-live.akamaized.net/pool_27/live/bbc_world_service/bbc_world_service.isml/dash/bbc_world_service-audio=320000.m3u8
