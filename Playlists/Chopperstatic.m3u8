@@ -119,70 +119,70 @@ https://secure2.todostreaming.es/live/tvstream-DHnew.m3u8
 #EXTINF:-0 tvg-logo="https://ocio.lne.es/img_contenido/noticias/2018/12/717579/la_voz_canal_24_horas.jpg" group-title="TVESP",La Voz 24h
 https://pull12.atresmedia.com/lavoz/master.m3u8
 
-#EXTINF:-0 group-title="Radio ESP",Cadena_100
+#EXTINF:-0 group-title="RadioESP",Cadena_100
 http://195.55.74.212/cope/cadena100.mp3
-#EXTINF:-0 group-title="Radio ESP",LocaFM
+#EXTINF:-0 group-title="RadioESP",LocaFM
 http://5.39.66.128:8012/live
-#EXTINF:-0 group-title="Radio ESP",KissFMMadrid
+#EXTINF:-0 group-title="RadioESP",KissFMMadrid
 http://kissfm.kissfmradio.cires21.com/kissfm.mp3
-#EXTINF:-0 group-title="Radio ESP",Latino
+#EXTINF:-0 group-title="RadioESP",Latino
 http://5.39.66.128:8012/live
-#EXTINF:-0 group-title="Radio ESP",RockFM
+#EXTINF:-0 group-title="RadioESP",RockFM
 http://195.55.74.204/cope/rockfm-low.mp3
-#EXTINF:-0 group-title="Radio ESP",GozaderaFM
+#EXTINF:-0 group-title="RadioESP",GozaderaFM
 http://server.hablocomunicaciones.com:5000/live
-#EXTINF:-0 group-title="Radio ESP",CanalFiesta
+#EXTINF:-0 group-title="RadioESP",CanalFiesta
 http://195.10.10.221/rtva/canalfiestaradio_master.mp3
-#EXTINF:-0 group-title="Radio ESP",ElixirFM
+#EXTINF:-0 group-title="RadioESP",ElixirFM
 http://radioserver10.profesionalhosting.com:41004/stream/1/
-#EXTINF:-0 group-title="Radio ESP",HitFM
+#EXTINF:-0 group-title="RadioESP",HitFM
 http://hitfm.kissfmradio.cires21.com/hitfm.mp3
-#EXTINF:-0 group-title="Radio ESP",Radio4G
+#EXTINF:-0 group-title="RadioESP",Radio4G
 http://195.10.10.225/radio4g/radiosigloxxi.mp3
-#EXTINF:-0 group-title="Radio ESP",LaFresca
+#EXTINF:-0 group-title="RadioESP",LaFresca
 http://stream.produccionesdale.com:8899/altacalidad
-#EXTINF:-0 group-title="Radio ESP",80Exitos
+#EXTINF:-0 group-title="RadioESP",80Exitos
 http://streaming.radionomy.com/80-EXITS
-#EXTINF:-0 group-title="Radio ESP",KokunFM
+#EXTINF:-0 group-title="RadioESP",KokunFM
 http://5.79.66.113:8000/stream/1/
-#EXTINF:-0 group-title="Radio ESP",RadioPlaneta
+#EXTINF:-0 group-title="RadioESP",RadioPlaneta
 http://5.79.66.113:8004/;stream/14
-#EXTINF:-0 group-title="Radio ESP",ActivaFM
+#EXTINF:-0 group-title="RadioESP",ActivaFM
 http://emisorasmusicales.es:8030/valencia.mp3
-#EXTINF:-0 group-title="Radio ESP",ChanqueteFM
+#EXTINF:-0 group-title="RadioESP",ChanqueteFM
 http://185.23.192.118:8008
-#EXTINF:-0 group-title="Radio ESP",CanalSurAndalucia
+#EXTINF:-0 group-title="RadioESP",CanalSurAndalucia
 http://195.55.74.208/rtva/canalsurradio_master.mp3
-#EXTINF:-0 group-title="Radio ESP",CanalSurFlamenco
+#EXTINF:-0 group-title="RadioESP",CanalSurFlamenco
 http://canalflamenco.rtva.stream.flumotion.com/rtva/canalflamenco.mp3.m3u
 
-#EXTINF:-0 group-title="Radio UK",Radio1
+#EXTINF:-0 group-title="RadioUK",Radio1
 https://as-dash-ww-live.akamaized.net/pool_6/live/bbc_radio_one/bbc_radio_one.isml/dash/bbc_radio_one-audio=320000.m3u8
-#EXTINF:-0 group-title="Radio UK",Radio2
+#EXTINF:-0 group-title="RadioUK",Radio2
 https://as-dash-ww-live.akamaized.net/pool_7/live/bbc_radio_two/bbc_radio_two.isml/dash/bbc_radio_two-audio=320000.m3u8
-#EXTINF:-0 group-title="Radio UK",Radio1Xtra
+#EXTINF:-0 group-title="RadioUK",Radio1Xtra
 https://as-dash-ww-live.akamaized.net/pool_7/live/bbc_1xtra/bbc_1xtra.isml/dash/bbc_1xtra-audio=320000.m3u8
-#EXTINF:-0 group-title="Radio UK",Radio3
+#EXTINF:-0 group-title="RadioUK",Radio3
 https://as-dash-ww-live.akamaized.net/pool_7/live/bbc_radio_three/bbc_radio_three.isml/dash/bbc_radio_three-audio=320000.m3u8
-#EXTINF:-0 group-title="Radio UK",Radio4
+#EXTINF:-0 group-title="RadioUK",Radio4
 https://as-dash-ww-live.akamaized.net/pool_6/live/bbc_radio_fourfm/bbc_radio_fourfm.isml/dash/bbc_radio_fourfm-audio=320000.m3u8
-#EXTINF:-0 group-title="Radio UK",Radio4Xtra
+#EXTINF:-0 group-title="RadioUK",Radio4Xtra
 https://as-dash-ww-live.akamaized.net/pool_6/live/bbc_radio_four_extra/bbc_radio_four_extra.isml/dash/bbc_radio_four_extra-audio=320000.m3u8
-#EXTINF:-0 group-title="Radio UK",Radio5Live
+#EXTINF:-0 group-title="RadioUK",Radio5Live
 https://as-dash-ww-live.akamaized.net/pool_6/live/bbc_radio_five_live/bbc_radio_five_live.isml/dash/bbc_radio_five_live-audio=320000.m3u8
-#EXTINF:-0 group-title="Radio UK",Radio6Music
+#EXTINF:-0 group-title="RadioUK",Radio6Music
 https://as-dash-ww-live.akamaized.net/pool_6/live/bbc_6music/bbc_6music.isml/dash/bbc_6music-audio=320000.m3u8
-#EXTINF:-0 group-title="Radio UK",BBCAsianNetwork
+#EXTINF:-0 group-title="RadioUK",BBCAsianNetwork
 https://as-dash-ww-live.akamaized.net/pool_6/live/bbc_asian_network/bbc_asian_network.isml/dash/bbc_asian_network-audio=320000.m3u8
-#EXTINF:-0 group-title="Radio UK",BBCWorldService
+#EXTINF:-0 group-title="RadioUK",BBCWorldService
 https://as-dash-ww-live.akamaized.net/pool_27/live/bbc_world_service/bbc_world_service.isml/dash/bbc_world_service-audio=320000.m3u8
-#EXTINF:-0 group-title="Radio UK",Kiss
+#EXTINF:-0 group-title="RadioUK",Kiss
 https://stream-kiss.planetradio.co.uk/kissnational.aac
-#EXTINF:-0 group-title="Radio UK",Heart
+#EXTINF:-0 group-title="RadioUK",Heart
 http://vis.media-ice.musicradio.com/HeartUKMP3
-#EXTINF:-0 group-title="Radio UK",CapitalRadio
+#EXTINF:-0 group-title="RadioUK",CapitalRadio
 http://media-sov.musicradio.com/CapitalMP3
-#EXTINF:-0 group-title="Radio UK",JazzFM
+#EXTINF:-0 group-title="RadioUK",JazzFM
 http://edge-ads-03-gos2.sharp-stream.com/jazzfmmobile.mp3
 
 
