@@ -1,3 +1,3 @@
 #EXTM3U
-#EXTINF:-0 group-title="Radio UK",Radio2
+#EXTINF:-0 group-title="group-title=Radio",Radio2
 https://as-dash-ww-live.akamaized.net/pool_7/live/bbc_radio_two/bbc_radio_two.isml/dash/bbc_radio_two-audio=320000.m3u8

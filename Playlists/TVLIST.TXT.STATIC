@@ -5,7 +5,7 @@ Antena3 https://livestartover.atresmedia.com/antena3/bitrate_4.m3u8 $TVESP$
 Cuatro https://livehlsdai-i.akamaihd.net/hls/live/571643/cuatro/bitrate_4.m3u8 $TVESP$
 Telecinco https://livehlsdai-i.akamaihd.net/hls/live/571640/telecinco/bitrate_4.m3u8 $TVESP$
 LaSexta https://livestartover.atresmedia.com/lasexta/bitrate_4.m3u8 $TVESP$
-Atreseries https://livestartover.atresmedia.com/a3series/bitrate_4.m3u8 $A3seriesHD.es$
+Atreseries https://livestartover.atresmedia.com/a3series/bitrate_4.m3u8 $TVESP$
 DKiss https://kissfm-cires21-video.secure.footprint.net/dkiss/bitrate_4.m3u8 $TVESP$
 FDF https://mdslivehls-i.akamaihd.net/hls/live/571650/fdf/bitrate_4.m3u8 $TVESP$
 Bemad https://mdslivehlsb-i.akamaihd.net/hls/live/623615/bemad/bitrate_4.m3u8 $TVESP$
@@ -15,34 +15,34 @@ Boing https://mdslivehlsb-i.akamaihd.net/hls/live/623616/boing/bitrate_4.m3u8 $T
 Nova https://nova-pull2c-a3player.secure.footprint.net/nova/bitrate_4.m3u8 $TVESP$
 Mega https://mega-pull2a-a3player.secure.footprint.net/mega/bitrate_4.m3u8 $TVESP$
 Neox https://neox-pull1c-a3player.secure.footprint.net/neox/bitrate_4.m3u8 $TVESP$
-A3internacional http://a3live-lh.akamaihd.net:80/i/antena3_1@35248/index_4_av-b.m3u8 $Antena3.sp$
-Paramount http://paramount.live.flumotion.com/live/playlist.m3u8#.m3u8 $Paramount.es$
+A3internacional http://a3live-lh.akamaihd.net:80/i/antena3_1@35248/index_4_av-b.m3u8 $TVESP$
+Paramount http://paramount.live.flumotion.com/live/playlist.m3u8#.m3u8 $TVESP$
 MTMAD https://mdssplive-lh.akamaihd.net/i/mtmad_1@744785/index_2500_av-p.m3u8 $TVESP$
 CanalSurCocina https://593fa17dec176.streamlock.net/cscocina/cscocina.stream/.m3u8 $TVESP$
-24Horas http://hlsliveamdgl8-lh.akamaihd.net/i/hlsdvrlive_1@583030/index_1500_av-b.m3u8 $24Horas.sp$
+24Horas http://hlsliveamdgl8-lh.akamaihd.net/i/hlsdvrlive_1@583030/index_1500_av-b.m3u8 $TVESP$
 Teledeporte http://hlsliveamdgl1-lh.akamaihd.net/i/hlsdvrlive_1@39732/index_1500_av-b.m3u8 $TVESP$
 Euronews https://euronews-es-p10-cdn.hexaglobe.net/581e0f8f80c10503c879797e8e51d993/5cdb1b1b/euronews/euronews-euronews-website-web-responsive-2/ewnsabrespri_spa.smil/ewnsabrespri_spa_720p.m3u8 $TVESP$
-Hispantv https://5a61de8ed719d.streamlock.net/live/smil:live.smil/playlist.m3u8 $HispanTV.es$
+Hispantv https://5a61de8ed719d.streamlock.net/live/smil:live.smil/playlist.m3u8 $TVESP$
 APunt https://cflive-emea.live-delivery.ooyala.com/out/u/jb44pwd2tj7w5/111819/wyYXIxZTE6okZbyKLzxq8TXa4a-SQlAO/cs/d77d4356674b449695b1c0f19fbd6fae_6.m3u8 $TVESP$
 Tele7 https://live-edge-sxb-1.cdn.enetres.net/9E9557EFCEBB43A89CEC8FBD3C500247022/llive-500/index.m3u8 $TVESP$
-LaOcho https://live-edge-sxb-1.cdn.enetres.net/489DDF7FE98241D19D8970314BC9D3EF021/live-1200/index.m3u8 $8tv.es$
+LaOcho https://live-edge-sxb-1.cdn.enetres.net/489DDF7FE98241D19D8970314BC9D3EF021/live-1200/index.m3u8 $TVESP$
 TeleLevante http://teledifusion.tv:1935/levantetvlive/mp4:levantetvlive/playlist.m3u8 $TVESP$
 ElToroTV https://live-edge-gra-1.cdn.enetres.net/16011939C62D44ED91350508FB25828B021/live-1000/index.m3u8 $TVESP$
 Hittv http://kissfm-cires21-video.secure.footprint.net/hittv/bitrate_4.m3u8 $TVESP$
-RealMadridTV http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/index_3_av-b.m3u8 $RealMadridTV.sp$
-BetisTV https://cdnlive.shooowit.net/rbetislive/smil:television.smil/playlist.m3u8 $BetisTV.es$
+RealMadridTV http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/index_3_av-b.m3u8 $TVESP$
+BetisTV https://cdnlive.shooowit.net/rbetislive/smil:television.smil/playlist.m3u8 $TVESP$
 Sevillafc https://open.http.mp.streamamg.com/p/3001314/sp/300131400/playManifest/entryId/0_wzckw85c/format/applehttp/protocol/https/uiConfId/30026292/a.m3u8 $TVESP$
 Flamenco https://593fa17dec176.streamlock.net/csflamenco/csflamenco.stream/.m3u8 $TVESP$
 Aragontv https://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8 $TVESP$
 Telemadrid http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/telemadrid1/bitrate_1.m3u8 $TVESP$
-Laotra http://live-laotra.cellnextelecom.net/laotra/smil:laotra/index.m3u8 $LaOtra.es$
-7Murcia http://rtvmurcia_01-lh.akamaihd.net/i/rtvmurcia_1_0@507973/master.m3u8 $7tv.es$
+Laotra http://live-laotra.cellnextelecom.net/laotra/smil:laotra/index.m3u8 $TVESP$
+7Murcia http://rtvmurcia_01-lh.akamaihd.net/i/rtvmurcia_1_0@507973/master.m3u8 $TVESP$
 Canarias http://streaming2.mad.idec.net/rtvcnet/rtvcnet.drb.smil/Playlist.m3u8 $TVESP$
 Castillalamancha http://cdnapi.kaltura.com/p/2288691/sp/39582391/playManifest/entryId/0_xs45iy5i/format/applehttp/.m3u8 $TVESP$
 CanalExtremadura http://hlstv.canalextremadura.es/livetv/smil:multistream.smil/chunklist_b1596000_DVR.m3u8 $TVESP$
 TelevisiónMunicipaldeCórdoba http://teledifusion.tv:1935/cordoba/cordobalive/.m3u8 $TVESP$
-IB3 http://ibsatiphone.ib3tv.com/iphoneliveIB3/IB3/bitrate_4.m3u8 $IB3.es$
-Beteve http://cdnapi.kaltura.com/p/2346171/sp/234617100/playManifest/entryId/1_n6442jz0/format/applehttp/.m3u8 $IB3.es$
+IB3 http://ibsatiphone.ib3tv.com/iphoneliveIB3/IB3/bitrate_4.m3u8 $TVESP$
+Beteve http://cdnapi.kaltura.com/p/2346171/sp/234617100/playManifest/entryId/1_n6442jz0/format/applehttp/.m3u8 $TVESP$
 NavarraTV https://nws.nice264.com/SmilLive/getLiveIOS.m3u8?stream=NTV_livenatvmb&system=NTV&protocol=http_cupertino/playlist.m3u8 $TVESP$
 TV3 http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:tv3_web/playlist.m3u8 $TVESP$
 TV324 http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:324_web/playlist.m3u8 $TVESP$
@@ -56,35 +56,35 @@ PrideTV http://178.132.6.97/PrideTV1/playlist.m3u8 $TVESP$
 11TV http://178.132.6.97/11Madrid/index.m3u8 $TVESP$
 101TV https://secure.todostreaming.es/live/101tv-web101tv.m3u8 $TVESP$
 DHTV https://secure2.todostreaming.es/live/tvstream-DHnew.m3u8 $TVESP$
-LaVoz24h https://pull12.atresmedia.com/lavoz/master.m3u8 $https://ocio.lne.es/img_contenido/noticias/2018/12/717579/la_voz_canal_24_horas.jpg$
-Cadena_100 http://195.55.74.212/cope/cadena100.mp3 $Radio ESP$
-LocaFM http://5.39.66.128:8012/live $Radio ESP$
-KissFMMadrid http://kissfm.kissfmradio.cires21.com/kissfm.mp3 $Radio ESP$
-Latino http://5.39.66.128:8012/live $Radio ESP$
-RockFM http://195.55.74.204/cope/rockfm-low.mp3 $Radio ESP$
-GozaderaFM http://server.hablocomunicaciones.com:5000/live $Radio ESP$
-CanalFiesta http://195.10.10.221/rtva/canalfiestaradio_master.mp3 $Radio ESP$
-ElixirFM http://radioserver10.profesionalhosting.com:41004/stream/1/ $Radio ESP$
-HitFM http://hitfm.kissfmradio.cires21.com/hitfm.mp3 $Radio ESP$
-Radio4G http://195.10.10.225/radio4g/radiosigloxxi.mp3 $Radio ESP$
-LaFresca http://stream.produccionesdale.com:8899/altacalidad $Radio ESP$
-80Exitos http://streaming.radionomy.com/80-EXITS $Radio ESP$
-KokunFM http://5.79.66.113:8000/stream/1/ $Radio ESP$
-RadioPlaneta http://5.79.66.113:8004/;stream/14 $Radio ESP$
-ActivaFM http://emisorasmusicales.es:8030/valencia.mp3 $Radio ESP$
-ChanqueteFM http://185.23.192.118:8008 $Radio ESP$
-CanalSurAndalucia http://195.55.74.208/rtva/canalsurradio_master.mp3 $Radio ESP$
-CanalSurFlamenco http://canalflamenco.rtva.stream.flumotion.com/rtva/canalflamenco.mp3.m3u $Radio ESP$
-Radio1 https://as-dash-ww-live.akamaized.net/pool_6/live/bbc_radio_one/bbc_radio_one.isml/dash/bbc_radio_one-audio=320000.m3u8 $Radio UK$
-Radio2 https://as-dash-ww-live.akamaized.net/pool_7/live/bbc_radio_two/bbc_radio_two.isml/dash/bbc_radio_two-audio=320000.m3u8 $Radio UK$
-Radio1Xtra https://as-dash-ww-live.akamaized.net/pool_7/live/bbc_1xtra/bbc_1xtra.isml/dash/bbc_1xtra-audio=320000.m3u8 $Radio UK$
-Radio3 https://as-dash-ww-live.akamaized.net/pool_7/live/bbc_radio_three/bbc_radio_three.isml/dash/bbc_radio_three-audio=320000.m3u8 $Radio UK$
-Radio4 https://as-dash-ww-live.akamaized.net/pool_6/live/bbc_radio_fourfm/bbc_radio_fourfm.isml/dash/bbc_radio_fourfm-audio=320000.m3u8 $Radio UK$
-Radio4Xtra https://as-dash-ww-live.akamaized.net/pool_6/live/bbc_radio_four_extra/bbc_radio_four_extra.isml/dash/bbc_radio_four_extra-audio=320000.m3u8 $Radio UK$
-Radio5Live https://as-dash-ww-live.akamaized.net/pool_6/live/bbc_radio_five_live/bbc_radio_five_live.isml/dash/bbc_radio_five_live-audio=320000.m3u8 $Radio UK$
-Radio6Music https://as-dash-ww-live.akamaized.net/pool_6/live/bbc_6music/bbc_6music.isml/dash/bbc_6music-audio=320000.m3u8 $Radio UK$
-BBCAsianNetwork https://as-dash-ww-live.akamaized.net/pool_6/live/bbc_asian_network/bbc_asian_network.isml/dash/bbc_asian_network-audio=320000.m3u8 $Radio UK$
-BBCWorldService https://as-dash-ww-live.akamaized.net/pool_27/live/bbc_world_service/bbc_world_service.isml/dash/bbc_world_service-audio=320000.m3u8 $Radio UK$
-Kiss https://stream-kiss.planetradio.co.uk/kissnational.aac $Radio UK$
-Heart http://vis.media-ice.musicradio.com/HeartUKMP3 $Radio UK$
-CapitalRadio http://media-sov.musicradio.com/CapitalMP3 $Radio UK$
+LaVoz24h https://pull12.atresmedia.com/lavoz/master.m3u8 $TVESP$
+Cadena_100 http://195.55.74.212/cope/cadena100.mp3 $group-title=Radio$
+LocaFM http://5.39.66.128:8012/live $group-title=Radio$
+KissFMMadrid http://kissfm.kissfmradio.cires21.com/kissfm.mp3 $group-title=Radio$
+Latino http://5.39.66.128:8012/live $group-title=Radio$
+RockFM http://195.55.74.204/cope/rockfm-low.mp3 $group-title=Radio$
+GozaderaFM http://server.hablocomunicaciones.com:5000/live $group-title=Radio$
+CanalFiesta http://195.10.10.221/rtva/canalfiestaradio_master.mp3 $group-title=Radio$
+ElixirFM http://radioserver10.profesionalhosting.com:41004/stream/1/ $group-title=Radio$
+HitFM http://hitfm.kissfmradio.cires21.com/hitfm.mp3 $group-title=Radio$
+Radio4G http://195.10.10.225/radio4g/radiosigloxxi.mp3 $group-title=Radio$
+LaFresca http://stream.produccionesdale.com:8899/altacalidad $group-title=Radio$
+80Exitos http://streaming.radionomy.com/80-EXITS $group-title=Radio$
+KokunFM http://5.79.66.113:8000/stream/1/ $group-title=Radio$
+RadioPlaneta http://5.79.66.113:8004/;stream/14 $group-title=Radio$
+ActivaFM http://emisorasmusicales.es:8030/valencia.mp3 $group-title=Radio$
+ChanqueteFM http://185.23.192.118:8008 $group-title=Radio$
+CanalSurAndalucia http://195.55.74.208/rtva/canalsurradio_master.mp3 $group-title=Radio$
+CanalSurFlamenco http://canalflamenco.rtva.stream.flumotion.com/rtva/canalflamenco.mp3.m3u $group-title=Radio$
+Radio1 https://as-dash-ww-live.akamaized.net/pool_6/live/bbc_radio_one/bbc_radio_one.isml/dash/bbc_radio_one-audio=320000.m3u8 $group-title=Radio$
+Radio2 https://as-dash-ww-live.akamaized.net/pool_7/live/bbc_radio_two/bbc_radio_two.isml/dash/bbc_radio_two-audio=320000.m3u8 $group-title=Radio$
+Radio1Xtra https://as-dash-ww-live.akamaized.net/pool_7/live/bbc_1xtra/bbc_1xtra.isml/dash/bbc_1xtra-audio=320000.m3u8 $group-title=Radio$
+Radio3 https://as-dash-ww-live.akamaized.net/pool_7/live/bbc_radio_three/bbc_radio_three.isml/dash/bbc_radio_three-audio=320000.m3u8 $group-title=Radio$
+Radio4 https://as-dash-ww-live.akamaized.net/pool_6/live/bbc_radio_fourfm/bbc_radio_fourfm.isml/dash/bbc_radio_fourfm-audio=320000.m3u8 $group-title=Radio$
+Radio4Xtra https://as-dash-ww-live.akamaized.net/pool_6/live/bbc_radio_four_extra/bbc_radio_four_extra.isml/dash/bbc_radio_four_extra-audio=320000.m3u8 $group-title=Radio$
+Radio5Live https://as-dash-ww-live.akamaized.net/pool_6/live/bbc_radio_five_live/bbc_radio_five_live.isml/dash/bbc_radio_five_live-audio=320000.m3u8 $group-title=Radio$
+Radio6Music https://as-dash-ww-live.akamaized.net/pool_6/live/bbc_6music/bbc_6music.isml/dash/bbc_6music-audio=320000.m3u8 $group-title=Radio$
+BBCAsianNetwork https://as-dash-ww-live.akamaized.net/pool_6/live/bbc_asian_network/bbc_asian_network.isml/dash/bbc_asian_network-audio=320000.m3u8 $group-title=Radio$
+BBCWorldService https://as-dash-ww-live.akamaized.net/pool_27/live/bbc_world_service/bbc_world_service.isml/dash/bbc_world_service-audio=320000.m3u8 $group-title=Radio$
+Kiss https://stream-kiss.planetradio.co.uk/kissnational.aac $group-title=Radio$
+Heart http://vis.media-ice.musicradio.com/HeartUKMP3 $group-title=Radio$
+CapitalRadio http://media-sov.musicradio.com/CapitalMP3 $group-title=Radio$
