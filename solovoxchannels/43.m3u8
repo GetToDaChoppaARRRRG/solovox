@@ -1,3 +1,3 @@
 #EXTM3U
-#EXTINF:-0 group-title="TVESP",Televisión Municipal de Córdoba
+#EXTINF:-0 group-title="",Televisión Municipal de Córdoba
 http://teledifusion.tv:1935/cordoba/cordobalive/.m3u8

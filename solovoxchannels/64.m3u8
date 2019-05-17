@@ -1,3 +1,3 @@
 #EXTM3U
-#EXTINF:-0 group-title="Radio ESP",RockFM
+#EXTINF:-0 group-title="",RockFM
 http://195.55.74.204/cope/rockfm-low.mp3

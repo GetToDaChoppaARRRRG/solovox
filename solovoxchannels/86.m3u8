@@ -1,3 +1,3 @@
 #EXTM3U
-#EXTINF:-0 group-title="Radio UK",BBCAsianNetwork
+#EXTINF:-0 group-title="",BBCAsianNetwork
 https://as-dash-ww-live.akamaized.net/pool_6/live/bbc_asian_network/bbc_asian_network.isml/dash/bbc_asian_network-audio=320000.m3u8

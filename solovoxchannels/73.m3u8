@@ -1,3 +1,3 @@
 #EXTM3U
-#EXTINF:-0 group-title="Radio ESP",RadioPlaneta
+#EXTINF:-0 group-title="",RadioPlaneta
 http://5.79.66.113:8004/;stream/14
