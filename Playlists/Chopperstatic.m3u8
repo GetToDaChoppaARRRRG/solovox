@@ -3,9 +3,9 @@
 #EXTINF:-0 group-title="TVESP",Canal Sur
 http://canalsur-pair302-live.hls.adaptive.level3.net/egress/bhandler/sandetel/rtva/.m3u8
 #EXTINF:-0 group-title="TVESP",La1
-http://hlsliveamdgl7-lh.akamaihd.net/i/hlslive_1@583043/index_2800_av-b.m3u8?sd=10&rebase=on
+https://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/index_2800_av-b.m3u8
 #EXTINF:-0 group-title="TVESP",La2
-http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl0/la2_lv3_aosv4_gl0/la2_lv3_aosv4_gl0.isml/la2_lv3_aosv4_gl0-video=1500000.m3u8
+https://hlsliveamdgl0-lh.akamaihd.net/i/hlsdvrlive_1@60531/index_2800_av-p.m3u8
 #EXTINF:-0 group-title="TVESP",Antena3
 https://livestartover.atresmedia.com/antena3/bitrate_4.m3u8
 #EXTINF:-0 group-title="TVESP",Cuatro
