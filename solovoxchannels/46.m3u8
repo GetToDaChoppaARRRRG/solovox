@@ -1,3 +1,3 @@
 #EXTM3U
-#EXTINF:-0 group-title="",Navarra TV
+#EXTINF:-0 group-title="TVESP",Navarra TV
 https://nws.nice264.com/SmilLive/getLiveIOS.m3u8?stream=NTV_livenatvmb&system=NTV&protocol=http_cupertino/playlist.m3u8
